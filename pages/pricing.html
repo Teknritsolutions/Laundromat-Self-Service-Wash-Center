@@ -1,0 +1,793 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <title>Simple laundry pricing | Stillwater Laundry</title>
+        <meta
+            name="description"
+            content="See per-cycle washer and dryer rates plus weight-based drop-off pricing."
+        />
+        <link rel="canonical" href="https://stillwater.example/pages/pricing.html" />
+        <meta property="og:title" content="Simple laundry pricing | Stillwater Laundry" />
+        <meta
+            property="og:description"
+            content="See per-cycle washer and dryer rates plus weight-based drop-off pricing."
+        />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://stillwater.example/pages/pricing.html" />
+        <link rel="icon" type="image/svg+xml" href="../assets/images/brand/favicon.svg" />
+        <script>
+            try {
+                const t = localStorage.getItem("stillwater-theme");
+                document.documentElement.dataset.theme =
+                    t || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+                document.documentElement.dir = localStorage.getItem("stillwater-dir") || "ltr";
+            } catch (e) {}
+        </script>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="stylesheet" href="../assets/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="../assets/css/style.css" />
+        <link rel="stylesheet" href="../assets/css/responsive.css" />
+        <link rel="stylesheet" href="../assets/css/dark-mode.css" />
+        <link rel="stylesheet" href="../assets/css/rtl.css" />
+    </head>
+    <body class="page-pricing">
+        <a class="skip-link" href="#main">Skip to content</a>
+        <header class="site-header">
+            <div class="container header-inner">
+                <a class="brand" href="index.html">
+                    <img
+                        class="logo-dark"
+                        src="../assets/images/brand/logo-dark.svg"
+                        width="280"
+                        height="66"
+                        alt="Stillwater Laundry &amp; Wash Center"
+                        decoding="async"
+                    />
+                    <img
+                        class="logo-light"
+                        src="../assets/images/brand/logo-light.svg"
+                        width="280"
+                        height="66"
+                        alt="Stillwater Laundry &amp; Wash Center"
+                        decoding="async"
+                    />
+                </a>
+                <nav class="main-nav" id="main-nav" aria-label="Main navigation">
+                    <div class="dropdown">
+                        <button
+                            class="nav-link dropdown-toggle"
+                            data-bs-toggle="dropdown"
+                            aria-expanded="false"
+                        >
+                            Home
+                        </button>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="index.html">Home Page 1</a></li>
+                            <li><a class="dropdown-item" href="index-2.html">Home Page 2</a></li>
+                        </ul>
+                    </div>
+                    <a class="nav-link" href="about.html">About</a>
+                    <a class="nav-link" href="services.html">Services</a>
+                    <a class="nav-link active" aria-current="page" href="pricing.html">Pricing</a>
+                    <a class="nav-link" href="locations.html">Locations</a>
+                    <a class="nav-link" href="blog.html">Blog</a>
+                    <a class="nav-link" href="contact.html">Contact</a>
+                </nav>
+                <div class="header-actions">
+                    <button class="icon-button theme-toggle" aria-label="Switch color theme">
+                        <svg
+                            class="icon theme-sun"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="1.5"
+                            aria-hidden="true"
+                        >
+                            <circle cx="12" cy="12" r="4" />
+                            <path
+                                d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"
+                            /></svg
+                        ><svg
+                            class="icon theme-moon"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="1.5"
+                            aria-hidden="true"
+                        >
+                            <path d="M20 15.5A8 8 0 0 1 8.5 4 8.5 8.5 0 1 0 20 15.5Z" />
+                        </svg>
+                    </button>
+                    <button
+                        class="icon-button direction-toggle"
+                        data-rtl
+                        aria-label="Switch to right-to-left layout"
+                    >
+                        <svg
+                            class="icon"
+                            viewBox="0 0 24 24"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="1.5"
+                            aria-hidden="true"
+                        >
+                            <path d="M4 7h16m-4-4 4 4-4 4M20 17H4m4-4-4 4 4 4" />
+                        </svg>
+                        <span class="direction-label">RTL</span>
+                    </button>
+                    <a class="btn btn-primary header-cta" href="locations.html">
+                        Find a center
+                        <svg
+                            class="icon"
+                            viewBox="0 0 32 32"
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-width="1.6"
+                            aria-hidden="true"
+                        >
+                            <path d="M25 13c0 8-9 16-9 16S7 21 7 13a9 9 0 1 1 18 0Z" />
+                            <circle cx="16" cy="13" r="3" />
+                        </svg>
+                    </a>
+                    <button
+                        class="icon-button menu-toggle"
+                        aria-label="Open navigation"
+                        aria-controls="main-nav"
+                        aria-expanded="false"
+                    >
+                        <svg
+                            class="icon"
+                            viewBox="0 0 24 24"
+                            stroke="currentColor"
+                            stroke-width="1.5"
+                            aria-hidden="true"
+                        >
+                            <path d="M3 6h18M3 12h18M3 18h18" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </header>
+        <main id="main">
+            <!-- Section 1 -->
+
+            <!-- ========================= Pricing introduction ========================= -->
+            <section class="section inner-intro" aria-label="Pricing introduction">
+                <div class="container">
+                    <nav class="breadcrumb" aria-label="Breadcrumb">
+                        <a href="index.html">Home</a>
+                        <span aria-hidden="true">/</span>
+                        <span aria-current="page">Pricing</span>
+                    </nav>
+                    <div class="pricing-hero">
+                        <div class="pricing-hero-copy">
+                            <span class="eyebrow">STILLWATER LAUNDRY</span>
+                            <h1>
+                                Simple pricing.
+                                <br />
+                                A lighter laundry day.
+                            </h1>
+                            <p>
+                                Choose the capacity you need. Know what it costs before the cycle
+                                starts.
+                            </p>
+                            <div class="pricing-assurance">
+                                <svg
+                                    class="icon"
+                                    viewBox="0 0 32 32"
+                                    fill="none"
+                                    stroke="currentColor"
+                                    stroke-width="1.6"
+                                    aria-hidden="true"
+                                >
+                                    <path d="m7 16 6 6L26 8" />
+                                </svg>
+                                Clear rates. No subscription.
+                            </div>
+                        </div>
+                        <figure class="pricing-hero-photo">
+                            <img
+                                src="../assets/images/pricing/clear-pricing-hero.webp"
+                                alt="Commercial laundry machines and spacious folding counters"
+                                width="800"
+                                height="1200"
+                                fetchpriority="high"
+                                decoding="async"
+                            />
+                            <figcaption>
+                                <span>ROOM FOR EVERY LOAD</span>
+                                <strong>
+                                    Choose your drum.
+                                    <br />
+                                    Know your price.
+                                </strong>
+                            </figcaption>
+                        </figure>
+                    </div>
+                </div>
+            </section>
+            <!-- Section 2 -->
+
+            <!-- ========================= Washer rate board ========================= -->
+            <section class="section" aria-label="Washer rate board">
+                <div class="container">
+                    <div class="section-head-row">
+                        <div class="section-header">
+                            <span class="eyebrow">WASHER RATES</span>
+                            <h2>
+                                Pay for the load.
+                                <br />
+                                Keep it simple.
+                            </h2>
+                        </div>
+                        <p>
+                            One price per cycle. Three useful capacities. No subscription required.
+                        </p>
+                    </div>
+                    <div class="washer-prices premium-washer-prices">
+                        <article>
+                            <div class="rate-card-top">
+                                <span class="rate-machine-icon">
+                                    <svg viewBox="0 0 32 32" fill="none" aria-hidden="true">
+                                        <rect
+                                            x="5"
+                                            y="3"
+                                            width="22"
+                                            height="26"
+                                            rx="4"
+                                            fill="var(--color-surface)"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                        />
+                                        <path
+                                            d="M5 10h22"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                        />
+                                        <path
+                                            d="M9 6.5h4"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                            stroke-linecap="round"
+                                        />
+                                        <circle cx="23" cy="6.5" r="1.2" fill="currentColor" />
+                                        <circle
+                                            cx="19"
+                                            cy="6.5"
+                                            r="1.2"
+                                            fill="var(--color-secondary)"
+                                            opacity=".45"
+                                        />
+                                        <circle
+                                            cx="16"
+                                            cy="19"
+                                            r="7"
+                                            fill="var(--color-soft)"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                        />
+                                        <circle
+                                            cx="16"
+                                            cy="19"
+                                            r="4.5"
+                                            stroke="currentColor"
+                                            stroke-width="1.2"
+                                            opacity=".5"
+                                        />
+                                        <path
+                                            d="M12 19c2-3 6 3 8 0"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                            stroke-linecap="round"
+                                        />
+                                        <path
+                                            d="M24 17v4"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                            stroke-linecap="round"
+                                        />
+                                    </svg>
+                                </span>
+                                <span class="capacity-pill">8 kg capacity</span>
+                            </div>
+                            <span class="eyebrow">01 / YOUR LOAD, YOUR WAY</span>
+                            <h3>Standard washer</h3>
+                            <p>Personal weekly laundry</p>
+                            <div class="price-value">
+                                <strong>$5.00</strong>
+                                <span>per wash cycle</span>
+                            </div>
+                            <span class="rate-card-note">
+                                <svg
+                                    class="icon"
+                                    viewBox="0 0 32 32"
+                                    fill="none"
+                                    stroke="currentColor"
+                                    stroke-width="1.6"
+                                    aria-hidden="true"
+                                >
+                                    <path d="m7 16 6 6L26 8" />
+                                </svg>
+                                Price shown before you start
+                            </span>
+                        </article>
+                        <article>
+                            <div class="rate-card-top">
+                                <span class="rate-machine-icon">
+                                    <svg viewBox="0 0 32 32" fill="none" aria-hidden="true">
+                                        <rect
+                                            x="5"
+                                            y="3"
+                                            width="22"
+                                            height="26"
+                                            rx="4"
+                                            fill="var(--color-surface)"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                        />
+                                        <path
+                                            d="M5 10h22"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                        />
+                                        <path
+                                            d="M9 6.5h4"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                            stroke-linecap="round"
+                                        />
+                                        <circle cx="23" cy="6.5" r="1.2" fill="currentColor" />
+                                        <circle
+                                            cx="19"
+                                            cy="6.5"
+                                            r="1.2"
+                                            fill="var(--color-secondary)"
+                                            opacity=".45"
+                                        />
+                                        <circle
+                                            cx="16"
+                                            cy="19"
+                                            r="7"
+                                            fill="var(--color-soft)"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                        />
+                                        <circle
+                                            cx="16"
+                                            cy="19"
+                                            r="4.5"
+                                            stroke="currentColor"
+                                            stroke-width="1.2"
+                                            opacity=".5"
+                                        />
+                                        <path
+                                            d="M12 19c2-3 6 3 8 0"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                            stroke-linecap="round"
+                                        />
+                                        <path
+                                            d="M24 17v4"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                            stroke-linecap="round"
+                                        />
+                                    </svg>
+                                </span>
+                                <span class="capacity-pill">14 kg capacity</span>
+                            </div>
+                            <span class="eyebrow">02 / YOUR LOAD, YOUR WAY</span>
+                            <h3>Large washer</h3>
+                            <p>Family loads & towels</p>
+                            <div class="price-value">
+                                <strong>$8.00</strong>
+                                <span>per wash cycle</span>
+                            </div>
+                            <span class="rate-card-note">
+                                <svg
+                                    class="icon"
+                                    viewBox="0 0 32 32"
+                                    fill="none"
+                                    stroke="currentColor"
+                                    stroke-width="1.6"
+                                    aria-hidden="true"
+                                >
+                                    <path d="m7 16 6 6L26 8" />
+                                </svg>
+                                Price shown before you start
+                            </span>
+                        </article>
+                        <article>
+                            <div class="rate-card-top">
+                                <span class="rate-machine-icon">
+                                    <svg viewBox="0 0 32 32" fill="none" aria-hidden="true">
+                                        <rect
+                                            x="5"
+                                            y="3"
+                                            width="22"
+                                            height="26"
+                                            rx="4"
+                                            fill="var(--color-surface)"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                        />
+                                        <path
+                                            d="M5 10h22"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                        />
+                                        <path
+                                            d="M9 6.5h4"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                            stroke-linecap="round"
+                                        />
+                                        <circle cx="23" cy="6.5" r="1.2" fill="currentColor" />
+                                        <circle
+                                            cx="19"
+                                            cy="6.5"
+                                            r="1.2"
+                                            fill="var(--color-secondary)"
+                                            opacity=".45"
+                                        />
+                                        <circle
+                                            cx="16"
+                                            cy="19"
+                                            r="7"
+                                            fill="var(--color-soft)"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                        />
+                                        <circle
+                                            cx="16"
+                                            cy="19"
+                                            r="4.5"
+                                            stroke="currentColor"
+                                            stroke-width="1.2"
+                                            opacity=".5"
+                                        />
+                                        <path
+                                            d="M12 19c2-3 6 3 8 0"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                            stroke-linecap="round"
+                                        />
+                                        <path
+                                            d="M24 17v4"
+                                            stroke="currentColor"
+                                            stroke-width="1.5"
+                                            stroke-linecap="round"
+                                        />
+                                    </svg>
+                                </span>
+                                <span class="capacity-pill">20 kg capacity</span>
+                            </div>
+                            <span class="eyebrow">03 / YOUR LOAD, YOUR WAY</span>
+                            <h3>Extra-large washer</h3>
+                            <p>Bedding & bulky washable items</p>
+                            <div class="price-value">
+                                <strong>$11.00</strong>
+                                <span>per wash cycle</span>
+                            </div>
+                            <span class="rate-card-note">
+                                <svg
+                                    class="icon"
+                                    viewBox="0 0 32 32"
+                                    fill="none"
+                                    stroke="currentColor"
+                                    stroke-width="1.6"
+                                    aria-hidden="true"
+                                >
+                                    <path d="m7 16 6 6L26 8" />
+                                </svg>
+                                Price shown before you start
+                            </span>
+                        </article>
+                    </div>
+                    <p class="small-note">
+                        Illustrative rates. Self-service detergent is available separately.
+                    </p>
+                </div>
+            </section>
+            <!-- Section 3 -->
+
+            <!-- ========================= Dryer time and rates ========================= -->
+            <section class="section" aria-label="Dryer time and rates">
+                <div class="container">
+                    <div class="dryer-rate-layout">
+                        <div>
+                            <div class="section-header">
+                                <span class="eyebrow">DRYER RATES</span>
+                                <h2>
+                                    Dry a little.
+                                    <br />
+                                    Check. Repeat.
+                                </h2>
+                                <p>
+                                    Fabric, load size and wash spin affect drying time. Choose heat
+                                    according to care labels.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="dryer-price-strip">
+                            <article>
+                                <h3>Standard</h3>
+                                <strong>$3.00</strong>
+                                <span>20 minutes</span>
+                            </article>
+                            <article>
+                                <h3>Large</h3>
+                                <strong>$4.00</strong>
+                                <span>20 minutes</span>
+                            </article>
+                            <article>
+                                <h3>Extra time</h3>
+                                <strong>$1.00</strong>
+                                <span>8 more minutes</span>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Section 4 -->
+
+            <!-- ========================= Drop and collect rates ========================= -->
+            <section class="section" aria-label="Drop and collect rates">
+                <div class="container">
+                    <div class="drop-pricing">
+                        <div>
+                            <span class="eyebrow">WE WEIGH IT. YOU LEAVE IT.</span>
+                            <h2>Care by the kilogram.</h2>
+                            <p>
+                                Detergent, washing, drying and folding included. We confirm the
+                                weight and total before accepting your bag.
+                            </p>
+                            <span class="price-callout">
+                                $3.50
+                                <small>/ kg</small>
+                            </span>
+                            <p class="small-note">Everyday laundry · 3 kg minimum · Demo rate</p>
+                        </div>
+                        <dl class="detail-list">
+                            <div>
+                                <dt>Washable bedding</dt>
+                                <dd>From $18 per single duvet</dd>
+                            </div>
+                            <div>
+                                <dt>Delicate or special loads</dt>
+                                <dd>Discuss handling for an upfront quote</dd>
+                            </div>
+                            <div>
+                                <dt>Collection</dt>
+                                <dd>Usually 24–48 hours; confirmed at drop-off</dd>
+                            </div>
+                        </dl>
+                    </div>
+                </div>
+            </section>
+            <!-- Section 5 -->
+
+            <!-- ========================= What is included ========================= -->
+            <section class="section" aria-label="What is included">
+                <div class="container">
+                    <div class="included-layout premium-included">
+                        <div class="included-visual">
+                            <div class="section-header">
+                                <span class="eyebrow">WHAT YOUR RATE COVERS</span>
+                                <h2>Clear from the first cycle.</h2>
+                            </div>
+                            <div class="image-frame">
+                                <img
+                                    src="../assets/images/pricing/comfortable-laundry-space.webp"
+                                    alt="Laundry machines and seating in a neighborhood wash center"
+                                    width="600"
+                                    height="900"
+                                    loading="lazy"
+                                    decoding="async"
+                                />
+                            </div>
+                            <p class="small-note">
+                                Space to wash, a place to wait, and guidance when you need it.
+                            </p>
+                        </div>
+                        <div class="included-benefits">
+                            <span class="eyebrow">THE EVERYDAY ESSENTIALS</span>
+                            <ul class="check-list">
+                                <li>Self-service: the selected wash or dryer cycle</li>
+                                <li>Machine capacity clearly marked before you start</li>
+                                <li>Drop & collect: detergent, washing, drying and folding</li>
+                                <li>On-site guidance with controls and machine selection</li>
+                                <li>Folding space and seating while your cycle runs</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Section 6 -->
+            <section class="section" aria-label="Visit Stillwater">
+                <div class="container">
+                    <div class="cta-panel">
+                        <div>
+                            <span class="eyebrow">YOUR NEXT FRESH START</span>
+                            <h2>Have a large or special load?</h2>
+                            <p>
+                                These are replaceable demo rates. Ask the team for the right care
+                                and a clear quote.
+                            </p>
+                        </div>
+                        <div class="actions">
+                            <a class="btn btn-primary" href="contact.html">
+                                Contact us
+                                <svg
+                                    class="icon"
+                                    viewBox="0 0 32 32"
+                                    fill="none"
+                                    stroke="currentColor"
+                                    stroke-width="1.6"
+                                    aria-hidden="true"
+                                >
+                                    <path d="M5 16h22M19 8l8 8-8 8" />
+                                </svg>
+                            </a>
+                            <a class="btn btn-secondary" href="pricing.html">
+                                View pricing
+                                <svg
+                                    class="icon"
+                                    viewBox="0 0 32 32"
+                                    fill="none"
+                                    stroke="currentColor"
+                                    stroke-width="1.6"
+                                    aria-hidden="true"
+                                >
+                                    <path d="M5 16h22M19 8l8 8-8 8" />
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <footer class="site-footer">
+            <div class="container">
+                <div class="footer-grid">
+                    <div>
+                        <a class="brand" href="index.html">
+                            <img
+                                class="logo-dark"
+                                src="../assets/images/brand/logo-dark.svg"
+                                width="280"
+                                height="66"
+                                alt="Stillwater Laundry &amp; Wash Center"
+                                decoding="async"
+                            />
+                            <img
+                                class="logo-light"
+                                src="../assets/images/brand/logo-light.svg"
+                                width="280"
+                                height="66"
+                                alt="Stillwater Laundry &amp; Wash Center"
+                                decoding="async"
+                            />
+                        </a>
+                        <p>
+                            A cleaner routine. A calmer day.
+                            <br />
+                            Your neighborhood laundry, thoughtfully done.
+                        </p>
+                        <div class="social-links">
+                            <a
+                                href="contact.html"
+                                aria-label="Ask about our Instagram"
+                                title="Instagram"
+                            >
+                                <svg
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    stroke="currentColor"
+                                    stroke-width="1.6"
+                                    aria-hidden="true"
+                                >
+                                    <rect x="3" y="3" width="18" height="18" rx="5" />
+                                    <circle cx="12" cy="12" r="4" />
+                                    <circle
+                                        cx="17.5"
+                                        cy="6.5"
+                                        r="1"
+                                        fill="currentColor"
+                                        stroke="none"
+                                    />
+                                </svg>
+                            </a>
+                            <a
+                                href="contact.html"
+                                aria-label="Ask about our Facebook"
+                                title="Facebook"
+                            >
+                                <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                                    <path
+                                        d="M14 22v-9h3l.5-4H14V7c0-1.2.4-2 2-2h2V1.5A25 25 0 0 0 15 1c-3 0-5 1.8-5 5v3H7v4h3v9h4Z"
+                                    />
+                                </svg>
+                            </a>
+                            <a href="contact.html" aria-label="Ask about our X profile" title="X">
+                                <svg
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    stroke="currentColor"
+                                    stroke-width="1.6"
+                                    stroke-linejoin="round"
+                                    aria-hidden="true"
+                                >
+                                    <path d="M4 3h4l12 18h-4L4 3ZM20 3l-7 8M4 21l7-8" />
+                                </svg>
+                            </a>
+                            <a
+                                href="contact.html"
+                                aria-label="Ask about our YouTube channel"
+                                title="YouTube"
+                            >
+                                <svg
+                                    viewBox="0 0 24 24"
+                                    fill="none"
+                                    stroke="currentColor"
+                                    stroke-width="1.6"
+                                    aria-hidden="true"
+                                >
+                                    <rect x="2" y="5" width="20" height="14" rx="4" />
+                                    <path d="m10 9 6 3-6 3V9Z" fill="currentColor" stroke="none" />
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                    <div>
+                        <h3>Explore</h3>
+                        <a href="index.html">Home</a>
+                        <a href="about.html">About</a>
+                        <a href="services.html">Services</a>
+                        <a href="pricing.html">Pricing</a>
+                        <a href="locations.html">Locations</a>
+                    </div>
+                    <div>
+                        <h3>Laundry your way</h3>
+                        <a href="service-details.html">Self-service washing</a>
+                        <a href="services.html#dryers">Dryer use</a>
+                        <a href="services.html#drop-off">Drop & collect</a>
+                        <a href="services.html#drop-off">Wash, dry & fold</a>
+                    </div>
+                    <div>
+                        <h3>Say hello</h3>
+                        <a href="tel:+12025550148">(202) 555-0148</a>
+                        <a href="mailto:hello@stillwater.example">hello@stillwater.example</a>
+                        <p>
+                            Open seven days a week
+                            <br />
+                            Hours vary by center.
+                        </p>
+                        <a href="contact.html">Contact the team ↗</a>
+                    </div>
+                </div>
+                <div class="footer-bottom">
+                    <span>© 2026 Stillwater Laundry. Fictional demo business.</span>
+                    <div>
+                        <button class="footer-link" data-policy="privacy">Privacy</button>
+                        <button class="footer-link" data-policy="terms">Terms</button>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <dialog id="policy-dialog">
+            <button class="icon-button dialog-close" aria-label="Close dialog">×</button>
+            <h2 id="policy-title"></h2>
+            <p id="policy-copy"></p>
+        </dialog>
+        <script src="../assets/js/bootstrap.bundle.min.js" defer></script>
+        <script src="../assets/js/main.js" defer></script>
+    </body>
+</html>

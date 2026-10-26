@@ -1,0 +1,18 @@
+{
+    "devDependencies": {
+        "@playwright/test": "^1.63.0",
+        "prettier": "^3.9.9"
+    },
+    "name": "stillwater-laundry-template",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "node tools/serve.cjs",
+        "build": "node node_modules/prettier/bin/prettier.cjs --write \"*.html\" \"pages/*.html\" \"documentation/*.html\" \"assets/css/*.css\" \"assets/js/main.js\" && node tests/structure.cjs && node tests/assets-audit.cjs",
+        "test": "node tests/qa.cjs",
+        "test:audit": "node tests/final-audit.cjs",
+        "test:assets": "node tests/structure.cjs && node tests/assets-audit.cjs",
+        "test:interactions": "node tests/interaction-audit.cjs",
+        "format": "prettier --write \"*.html\" \"pages/*.html\" \"documentation/*.html\" \"assets/css/*.css\" \"assets/js/main.js\""
+    }
+}

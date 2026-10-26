@@ -1,0 +1,61 @@
+/* Intentional navy surfaces preserve the light-mode hierarchy. */
+html[data-theme="dark"] {
+    color-scheme: dark;
+    --color-primary: #bfdbe3;
+    --color-secondary: #abc7d5;
+    --color-accent: #bfdbe3;
+    --color-bg: #101e29;
+    --color-surface: #182b38;
+    --color-text: #f5f3ee;
+    --color-muted: #b8c6ce;
+    --color-border: #354b59;
+    --color-soft: #213845;
+    --color-sand: #293943;
+    --color-on-ink: #172f40;
+    --shadow: 0 8px 30px rgb(0 0 0 / 12%);
+}
+html[data-theme="dark"] .logo-dark {
+    display: none;
+}
+html[data-theme="dark"] .logo-light {
+    display: block;
+}
+html[data-theme="dark"] .cta-panel {
+    background: #fff;
+}
+html[data-theme="dark"] .cta-panel h2,
+html[data-theme="dark"] .cta-panel .btn-secondary {
+    --bs-btn-active-color: #172f40;
+    color: #172f40;
+}
+html[data-theme="dark"] .cta-panel p {
+    color: #586a75;
+}
+html[data-theme="dark"] .cta-panel .eyebrow {
+    color: #526f82;
+}
+html[data-theme="dark"] .cta-panel .btn-secondary:hover {
+    background: #edf1f1;
+}
+html[data-theme="dark"] .btn-primary {
+    --bs-btn-hover-bg: #dfedf1;
+    --bs-btn-hover-border-color: #dfedf1;
+    --bs-btn-hover-color: #172f40;
+}
+html[data-theme="dark"] .btn-primary:hover {
+    background: #dfedf1;
+    border-color: #dfedf1;
+    color: #172f40;
+}
+html[data-theme="dark"] .accordion-button::after {
+    filter: brightness(0) invert(1);
+}
+html[data-theme="dark"] .field-error {
+    color: #ffbcb5;
+}
+html[data-theme="dark"] [aria-invalid="true"] {
+    border-color: #ffbcb5;
+}
+html[data-theme="light"] {
+    color-scheme: light;
+}

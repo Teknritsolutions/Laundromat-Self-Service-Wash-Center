@@ -1,0 +1,659 @@
+﻿[
+    {
+        "filename":  "about/bright-laundry-interior.webp",
+        "format":  "webp",
+        "width":  1500,
+        "height":  997,
+        "bytes":  129250,
+        "sha256":  "6EEC5819D22BEC605F111AF03A0EB37A2850DB6B3F3F42D933881EFFCF1EF075",
+        "pages":  [
+                      "about.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "about/carefully-maintained-equipment.webp",
+        "format":  "webp",
+        "width":  1200,
+        "height":  900,
+        "bytes":  113330,
+        "sha256":  "1968A63CF659415293326A3924BAC8EDC2F05DD0F4478EC7624E1349DB2B1404",
+        "pages":  [
+                      "about.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "about/customer-laundry-visit.webp",
+        "format":  "webp",
+        "width":  1400,
+        "height":  2100,
+        "bytes":  122568,
+        "sha256":  "D3578449BFDDA345954023DF33CA02FE5E7F4AAA37976F5765C335B697B9E088",
+        "pages":  [
+                      "about.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "about/visitor-portrait.webp",
+        "format":  "webp",
+        "width":  300,
+        "height":  300,
+        "bytes":  8926,
+        "sha256":  "F987ABD00BEAFE437A94357E01AA81C63F9121DA207B7C8F1AC56E2E0640D791",
+        "pages":  [
+                      "about.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "blog/bedding-ready-for-washing.webp",
+        "format":  "webp",
+        "width":  1400,
+        "height":  932,
+        "bytes":  64238,
+        "sha256":  "FAF8AADF0C9F29DE7B01F848A8F3AB15C37F962E30D8F4FA350A1D3329BA984A",
+        "pages":  [
+                      "blog.html"
+                  ],
+        "dynamicArticleUse":  true,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "blog/choosing-load-capacity.webp",
+        "format":  "webp",
+        "width":  1200,
+        "height":  900,
+        "bytes":  101298,
+        "sha256":  "600B5924B62583DAD7966DC2BC8932C2A135DB85DEA1D883A4991C98D88AB95D",
+        "pages":  [
+                      "blog.html"
+                  ],
+        "dynamicArticleUse":  true,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "blog/clean-white-towel-stack.webp",
+        "format":  "webp",
+        "width":  1400,
+        "height":  2100,
+        "bytes":  99524,
+        "sha256":  "3CDCAB8998754E6B87A6C63F9BA2A2120AB1D72F84EACE59AEFEF627BF457FFF",
+        "pages":  [
+                      "blog.html"
+                  ],
+        "dynamicArticleUse":  true,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "blog/cozy-folded-sweaters.webp",
+        "format":  "webp",
+        "width":  600,
+        "height":  900,
+        "bytes":  76162,
+        "sha256":  "8AFB570E392B3AC5CB947EA39847CE5BF22E7C125DF47386A21353E97863CE67",
+        "pages":  [
+                      "blog-details.html"
+                  ],
+        "dynamicArticleUse":  true,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "blog/drying-fabric-with-care.webp",
+        "format":  "webp",
+        "width":  1200,
+        "height":  900,
+        "bytes":  121846,
+        "sha256":  "5EAB1FBA073985B36238F12A1A496DAD204330CDFACF8D699F7BCF649837F8F4",
+        "pages":  [
+                      "blog.html"
+                  ],
+        "dynamicArticleUse":  true,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "blog/everyday-fabric-care.webp",
+        "format":  "webp",
+        "width":  900,
+        "height":  900,
+        "bytes":  137908,
+        "sha256":  "768690F80BC98ED5398FE6FCE6FDF8427DD697A7CB2C47783355E5BC311C5E86",
+        "pages":  [
+                      "blog-details.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "blog/everyday-laundry-journal.webp",
+        "format":  "webp",
+        "width":  1400,
+        "height":  933,
+        "bytes":  96042,
+        "sha256":  "337017AB0DD493780EE4FAE1D369708A86D0DBDF0F13967711B9AC1F0F97C4D3",
+        "pages":  [
+                      "blog.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "blog/fabric-care-symbols.svg",
+        "format":  "svg",
+        "width":  1200,
+        "height":  800,
+        "bytes":  702,
+        "sha256":  "062C23837F3C4907FBC3000A8DE4D391A3930136E281118BF7D35BB3484E5BE3",
+        "pages":  [
+                      "blog.html"
+                  ],
+        "dynamicArticleUse":  true,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "blog/fabric-texture-detail.webp",
+        "format":  "webp",
+        "width":  601,
+        "height":  900,
+        "bytes":  106458,
+        "sha256":  "61F71A2314F10B6AA09176F2E4F29A9C19FD2AE808D12DD4F7E27EEFA61C3897",
+        "pages":  [
+                      "blog-details.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "blog/soft-textile-closeup.webp",
+        "format":  "webp",
+        "width":  1500,
+        "height":  1000,
+        "bytes":  49986,
+        "sha256":  "398B14ED3512CEDB6C60A7247E09B91E9DDA02B7621A8E2D63DED500A18C73F4",
+        "pages":  [
+                      "blog-details.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "blog/sorted-delicate-shirts.webp",
+        "format":  "webp",
+        "width":  1500,
+        "height":  1000,
+        "bytes":  90028,
+        "sha256":  "0757D605E37D85ADAD226555DDCA36BAB3F689CC5FFA7E86211004048409D1F6",
+        "pages":  [
+                      "blog.html"
+                  ],
+        "dynamicArticleUse":  true,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "blog/weekend-bedding-care.webp",
+        "format":  "webp",
+        "width":  1200,
+        "height":  900,
+        "bytes":  71194,
+        "sha256":  "06DF2C92DF00BE8D9E2BE83C3E5BCB452A7219040C71763D37E641979FD76431",
+        "pages":  [
+                      "blog.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "brand/favicon.svg",
+        "format":  "svg",
+        "width":  80,
+        "height":  80,
+        "bytes":  348,
+        "sha256":  "8F019E5949FD076DCB1129DE9B1E6664855D1A9F9AB36EB4AA88432AAE93BBB8",
+        "pages":  [
+                      "404.html",
+                      "about.html",
+                      "blog-details.html",
+                      "blog.html",
+                      "coming-soon.html",
+                      "contact.html",
+                      "index-2.html",
+                      "index.html",
+                      "locations.html",
+                      "pricing.html",
+                      "service-details.html",
+                      "services.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "Shared logo, mark or favicon"
+    },
+    {
+        "filename":  "brand/logo-dark.svg",
+        "format":  "svg",
+        "width":  280,
+        "height":  66,
+        "bytes":  614,
+        "sha256":  "5BE5EAE958BB9EB435D1888766C2FD505513D911F2A980C52BD176B2CDF5821B",
+        "pages":  [
+                      "404.html",
+                      "about.html",
+                      "blog-details.html",
+                      "blog.html",
+                      "coming-soon.html",
+                      "contact.html",
+                      "index-2.html",
+                      "index.html",
+                      "locations.html",
+                      "pricing.html",
+                      "service-details.html",
+                      "services.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "Shared logo, mark or favicon"
+    },
+    {
+        "filename":  "brand/logo-light.svg",
+        "format":  "svg",
+        "width":  280,
+        "height":  66,
+        "bytes":  614,
+        "sha256":  "62E00118EC9B4E227D4771965F2C53DAF6F9AC71480DE3D31F1250D7B09F2AE2",
+        "pages":  [
+                      "404.html",
+                      "about.html",
+                      "blog-details.html",
+                      "blog.html",
+                      "coming-soon.html",
+                      "contact.html",
+                      "index-2.html",
+                      "index.html",
+                      "locations.html",
+                      "pricing.html",
+                      "service-details.html",
+                      "services.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "Shared logo, mark or favicon"
+    },
+    {
+        "filename":  "brand/logo-mark.svg",
+        "format":  "svg",
+        "width":  66,
+        "height":  66,
+        "bytes":  261,
+        "sha256":  "599385C357EB5BAD58D357752E49AEC8D6D20C31831267E3C4EF139ADB3F0374",
+        "pages":  [
+
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "Shared logo, mark or favicon"
+    },
+    {
+        "filename":  "contact/helpful-linen-care.webp",
+        "format":  "webp",
+        "width":  1400,
+        "height":  933,
+        "bytes":  36312,
+        "sha256":  "74ED4D66D6B63E3E6316E2CEA3393ED65F480E59E6CE7B71CF418222F8058406",
+        "pages":  [
+                      "contact.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "contact/laundry-guidance-hero.webp",
+        "format":  "webp",
+        "width":  1400,
+        "height":  956,
+        "bytes":  100176,
+        "sha256":  "EE7837C0926B0F3C73C73D313C59F540FD1B7AE6742EA72A8DD50263F224498D",
+        "pages":  [
+                      "contact.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "home-1/clean-steel-machine-row.webp",
+        "format":  "webp",
+        "width":  1500,
+        "height":  2249,
+        "bytes":  76946,
+        "sha256":  "E229E02A480CD4F126EFDF8824778C8F2BBE76497271B915A51BCB276FABC5E5",
+        "pages":  [
+                      "index.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "home-1/large-load-linen-basket.webp",
+        "format":  "webp",
+        "width":  1500,
+        "height":  1000,
+        "bytes":  36984,
+        "sha256":  "3F6CE6EF376857EA8F382DF37483A7B27F0C19E35BB1CC1E59E50F3B9D9A2339",
+        "pages":  [
+                      "index.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "home-1/self-service-customer.webp",
+        "format":  "webp",
+        "width":  600,
+        "height":  900,
+        "bytes":  56860,
+        "sha256":  "48847EAA052E87C922C43281A8964DB24A052BAF0E9CD6518977FD9976576019",
+        "pages":  [
+                      "index.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "home-1/sunlit-wash-center.webp",
+        "format":  "webp",
+        "width":  1500,
+        "height":  1000,
+        "bytes":  71700,
+        "sha256":  "DAA4B0D6B75CFA8473914A35E9D6D738D506F6DBD081EE1EE4F38805404E68EE",
+        "pages":  [
+                      "index.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "home-2/checked-drum.webp",
+        "format":  "webp",
+        "width":  1000,
+        "height":  667,
+        "bytes":  59902,
+        "sha256":  "F42D040A8B9D39E586F2C34C18407B58C90BF8CB8495D999282F6C961AB44432",
+        "pages":  [
+                      "index-2.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "home-2/considered-cycles.webp",
+        "format":  "webp",
+        "width":  1000,
+        "height":  1500,
+        "bytes":  107716,
+        "sha256":  "D4CFDEA1071005461698DD34260BBE8FCCDB5CABBCD060837AE1A78F1A61351F",
+        "pages":  [
+                      "index-2.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "home-2/fresh-folding-care.webp",
+        "format":  "webp",
+        "width":  1000,
+        "height":  667,
+        "bytes":  61880,
+        "sha256":  "451BD38656E5E52BEE2148F3DADF5B9B20FABB7A43B0F88B76B314A02CDE6C54",
+        "pages":  [
+                      "index-2.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "home-2/neighborhood-laundry-exterior.webp",
+        "format":  "webp",
+        "width":  1500,
+        "height":  1000,
+        "bytes":  84730,
+        "sha256":  "3B00DC3CAC432FF48569EF62A0D0562509B245008777F8DBDAED5C6DD2B0617F",
+        "pages":  [
+                      "index-2.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "home-2/open-laundromat-interior.webp",
+        "format":  "webp",
+        "width":  1500,
+        "height":  1000,
+        "bytes":  123798,
+        "sha256":  "1A018B06C4B303D24B925461908FB8079463A0D9C31A7F4865A40CD729F0512E",
+        "pages":  [
+                      "index-2.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "home-2/professionally-folded-shirts.webp",
+        "format":  "webp",
+        "width":  1500,
+        "height":  1000,
+        "bytes":  73806,
+        "sha256":  "F52B15C711763CE4132C0CB7D5BF20965C30D2D77FE3F6C9240340DF2D560F30",
+        "pages":  [
+                      "index-2.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "home-2/self-service-machine-detail.webp",
+        "format":  "webp",
+        "width":  1500,
+        "height":  843,
+        "bytes":  143996,
+        "sha256":  "392A33A223FBF80463A197FA16C031AC46B923D6265D220E8886E374955D173A",
+        "pages":  [
+                      "index-2.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "home-2/tidy-laundry-room.webp",
+        "format":  "webp",
+        "width":  1000,
+        "height":  563,
+        "bytes":  60850,
+        "sha256":  "AB7AF6D27CAC5404A39A28F9907C49A9658B7FC821463D1956D810E7D30FE33D",
+        "pages":  [
+                      "index-2.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "locations/neighborhood-visit-hero.webp",
+        "format":  "webp",
+        "width":  1017,
+        "height":  1200,
+        "bytes":  117054,
+        "sha256":  "A97B725320380CF3933D1002F351B4FD939F5488095EFB2D7769B21FCCECA916",
+        "pages":  [
+                      "locations.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "locations/north-quarter-laundry.webp",
+        "format":  "webp",
+        "width":  1500,
+        "height":  2000,
+        "bytes":  112996,
+        "sha256":  "C79315183DF8CB384BC69E903DE47D83D83D27CB5FE5E18B7F1693429B9158DB",
+        "pages":  [
+                      "locations.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "locations/riverside-laundry.webp",
+        "format":  "webp",
+        "width":  1500,
+        "height":  1125,
+        "bytes":  108982,
+        "sha256":  "CDCB8ADEB9C9B7EED9FB8EB60BB81D519F5B85ED5386977C805A472B1DE9E123",
+        "pages":  [
+                      "locations.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "locations/west-park-laundrette.webp",
+        "format":  "webp",
+        "width":  599,
+        "height":  900,
+        "bytes":  96168,
+        "sha256":  "F9021B9CE38BCFBE3E2BFA4F04FF2D98F5F9B4DA31340B6015D32F0B28DDD265",
+        "pages":  [
+                      "locations.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "pricing/clear-pricing-hero.webp",
+        "format":  "webp",
+        "width":  800,
+        "height":  1200,
+        "bytes":  180910,
+        "sha256":  "B4F1B3F657E2B92FFA48981FFD092FB303B7CDC7B764AE22D6FD75DD67D8EB9E",
+        "pages":  [
+                      "pricing.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "pricing/comfortable-laundry-space.webp",
+        "format":  "webp",
+        "width":  600,
+        "height":  900,
+        "bytes":  44002,
+        "sha256":  "73F3294795D29717DA744DB38B49831B6CEB521D04B4238D957A1733406F0E3C",
+        "pages":  [
+                      "pricing.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "services/commercial-laundry-room.webp",
+        "format":  "webp",
+        "width":  1500,
+        "height":  896,
+        "bytes":  130582,
+        "sha256":  "30979E45A7377305746C9AFA4A10BFE973FC8CD93B3858447F3C2915ADBA0C7F",
+        "pages":  [
+                      "services.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "services/customer-loading-laundry.webp",
+        "format":  "webp",
+        "width":  600,
+        "height":  900,
+        "bytes":  39356,
+        "sha256":  "F0D00E07BC9B829A3F20F37F7E79A658C799022835E64E080E584CBDAB049A42",
+        "pages":  [
+                      "services.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "services/folded-clothing-handover.webp",
+        "format":  "webp",
+        "width":  1400,
+        "height":  2100,
+        "bytes":  119844,
+        "sha256":  "68394ED6627C222C9CEC2BF34DF192D0C47F640FF7F2E8702CA9D9B9DD040C77",
+        "pages":  [
+                      "services.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "services/freshly-folded-textiles.webp",
+        "format":  "webp",
+        "width":  1500,
+        "height":  1001,
+        "bytes":  91838,
+        "sha256":  "6ECB62E57A60D79259CBFE435B8E358A67F70B39997776D6965A7F801B2FD851",
+        "pages":  [
+                      "services.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "services/laundry-bag-and-washer.webp",
+        "format":  "webp",
+        "width":  1500,
+        "height":  828,
+        "bytes":  100272,
+        "sha256":  "8C94EE5A96ABFA73F7255B60E003527101AE6AAF6351692CCB0844384D31E3C7",
+        "pages":  [
+                      "service-details.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "services/washer-dryer-center.webp",
+        "format":  "webp",
+        "width":  1500,
+        "height":  2250,
+        "bytes":  172246,
+        "sha256":  "59CFAA5A59C2D14DAA6A1C1DBA8D966863B7930E4D8C26E72AAE122D4B06B117",
+        "pages":  [
+                      "services.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "utility/fresh-routine-ahead.webp",
+        "format":  "webp",
+        "width":  1400,
+        "height":  2100,
+        "bytes":  134136,
+        "sha256":  "734DD900CB21561E995922A0320C1997020E3ECCA65F863EEED745BC7EE06525",
+        "pages":  [
+                      "coming-soon.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    },
+    {
+        "filename":  "utility/fresh-way-back.webp",
+        "format":  "webp",
+        "width":  600,
+        "height":  900,
+        "bytes":  54786,
+        "sha256":  "20E7897A204CCB18866347AC9EE51D122AF16FBF9DA8E99041D2D37D6BB5E482",
+        "pages":  [
+                      "404.html"
+                  ],
+        "dynamicArticleUse":  false,
+        "purpose":  "See image-manifest.txt"
+    }
+]

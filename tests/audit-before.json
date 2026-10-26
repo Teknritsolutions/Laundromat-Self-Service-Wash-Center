@@ -1,0 +1,484 @@
+[
+    {
+        "file": "404.html",
+        "sections": [
+            "Page not found"
+        ],
+        "headings": [
+            "This page is out for a spin."
+        ],
+        "images": [
+            "../assets/images/utility/fresh-way-back.webp"
+        ],
+        "forms": 0,
+        "header": false,
+        "footer": false
+    },
+    {
+        "file": "about.html",
+        "sections": [
+            "Page introduction",
+            "Made for real neighborhood routines.",
+            "Cleanliness. Convenience. Care. Clarity.",
+            "Equipment and standards",
+            "Neighborhood story",
+            "Visit Stillwater"
+        ],
+        "headings": [
+            "Making laundry simpler, cleaner and more convenient.",
+            "Made for real neighborhood routines.",
+            "Cleanliness. Convenience. Care. Clarity.",
+            "Cleanliness",
+            "Convenience",
+            "Care",
+            "Clarity",
+            "Better equipment. A better routine.",
+            "The care you notice. The routine you keep.",
+            "Ready for an easier laundry day?",
+            "Explore",
+            "Laundry your way",
+            "Say hello",
+            ""
+        ],
+        "images": [
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg",
+            "../assets/images/about/bright-laundry-interior.webp",
+            "../assets/images/about/customer-laundry-visit.webp",
+            "../assets/images/about/carefully-maintained-equipment.webp",
+            "../assets/images/about/visitor-portrait.webp",
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg"
+        ],
+        "forms": 0,
+        "header": true,
+        "footer": true
+    },
+    {
+        "file": "blog-details.html",
+        "sections": [
+            "Page introduction",
+            "Article body",
+            "Article takeaways",
+            "Related reading",
+            "Stay in the loop"
+        ],
+        "headings": [
+            "Give every load the care it deserves.",
+            "Start with the label, then the load.",
+            "Leave room in the drum",
+            "Use detergent thoughtfully.",
+            "Dry for the fabric, not the clock.",
+            "Let bedding dry completely",
+            "Three small habits worth keeping.",
+            "More from the care journal.",
+            "Choosing the right washer size",
+            "Drying clothes efficiently",
+            "Laundry symbols, explained",
+            "Useful tips. Local updates.",
+            "Explore",
+            "Laundry your way",
+            "Say hello",
+            ""
+        ],
+        "images": [
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg",
+            "../assets/images/blog/everyday-fabric-care.webp",
+            "../assets/images/blog/fabric-texture-detail.webp",
+            "../assets/images/blog/cozy-folded-sweaters.webp",
+            "../assets/images/blog/soft-textile-closeup.webp",
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg"
+        ],
+        "forms": 1,
+        "header": true,
+        "footer": true
+    },
+    {
+        "file": "blog.html",
+        "sections": [
+            "Blog introduction",
+            "Give your bedding room to breathe.",
+            "Laundry guides",
+            "Stay in the loop",
+            "Visit Stillwater"
+        ],
+        "headings": [
+            "Laundry tips. A little everyday ease.",
+            "Give your bedding room to breathe.",
+            "Good habits for fresh laundry.",
+            "How to wash bedding without the bulk",
+            "Choosing the right washer size",
+            "Drying clothes efficiently",
+            "Laundry symbols, explained",
+            "A gentler routine for delicates",
+            "When to refresh your towels",
+            "Useful tips. Local updates.",
+            "Put your new routine into practice.",
+            "Explore",
+            "Laundry your way",
+            "Say hello",
+            ""
+        ],
+        "images": [
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg",
+            "../assets/images/blog/everyday-laundry-journal.webp",
+            "../assets/images/blog/weekend-bedding-care.webp",
+            "../assets/images/blog/bedding-ready-for-washing.webp",
+            "../assets/images/blog/choosing-load-capacity.webp",
+            "../assets/images/blog/drying-fabric-with-care.webp",
+            "../assets/images/blog/fabric-care-symbols.svg",
+            "../assets/images/blog/sorted-delicate-shirts.webp",
+            "../assets/images/blog/clean-white-towel-stack.webp",
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg"
+        ],
+        "forms": 1,
+        "header": true,
+        "footer": true
+    },
+    {
+        "file": "coming-soon.html",
+        "sections": [
+            "Coming soon"
+        ],
+        "headings": [
+            "A fresh start. Coming to your neighborhood.",
+            "Your next wash. A simpler routine."
+        ],
+        "images": [
+            "../assets/images/utility/fresh-routine-ahead.webp"
+        ],
+        "forms": 1,
+        "header": false,
+        "footer": false
+    },
+    {
+        "file": "contact.html",
+        "sections": [
+            "Contact introduction",
+            "Contact information",
+            "Enquiry form",
+            "Contact map",
+            "Quick contact help",
+            "Visit Stillwater"
+        ],
+        "headings": [
+            "Let’s make laundry day easier.",
+            "Send a little detail.",
+            "Find your way around.",
+            "Monument Circle",
+            "Before you reach out.",
+            "Machine trouble?",
+            "Collection question?",
+            "Lost something?",
+            "Open daily. Ready when you are.",
+            "Explore",
+            "Laundry your way",
+            "Say hello",
+            ""
+        ],
+        "images": [
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg",
+            "../assets/images/contact/laundry-guidance-hero.webp",
+            "../assets/images/contact/helpful-linen-care.webp",
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg"
+        ],
+        "forms": 1,
+        "header": true,
+        "footer": true
+    },
+    {
+        "file": "index-2.html",
+        "sections": [
+            "Editorial home hero",
+            "Quick values",
+            "Machine selection",
+            "Self-service experience",
+            "Drop and collect feature",
+            "Rate board",
+            "Care standards",
+            "Local convenience",
+            "Frequently asked questions",
+            "Visit Stillwater"
+        ],
+        "headings": [
+            "Big loads. More life in between.",
+            "Big or small. There is room for it all.",
+            "Your wash. Your own pace.",
+            "A bag in. A fresh week out.",
+            "Your laundry. One simple rate board.",
+            "Standard washer",
+            "Large washer",
+            "Extra-large washer",
+            "Dryer cycle",
+            "Drop & collect",
+            "Good care, from the drum to the counter.",
+            "Checked machines",
+            "Considered cycles",
+            "Fresh folding",
+            "Tidy facilities",
+            "Your local stop for a fresh start.",
+            "A few things before your first visit.",
+            "Do I need to bring detergent?",
+            "How long does a wash take?",
+            "Which machine size should I choose?",
+            "How is drop & collect priced?",
+            "Can I wash duvets and delicate fabrics?",
+            "What payment methods are accepted?",
+            "Your next wash is closer than you think.",
+            "Explore",
+            "Laundry your way",
+            "Say hello",
+            ""
+        ],
+        "images": [
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg",
+            "../assets/images/home-2/open-laundromat-interior.webp",
+            "../assets/images/home-2/self-service-machine-detail.webp",
+            "../assets/images/home-2/professionally-folded-shirts.webp",
+            "../assets/images/home-2/checked-drum.webp",
+            "../assets/images/home-2/considered-cycles.webp",
+            "../assets/images/home-2/fresh-folding-care.webp",
+            "../assets/images/home-2/tidy-laundry-room.webp",
+            "../assets/images/home-2/neighborhood-laundry-exterior.webp",
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg"
+        ],
+        "forms": 0,
+        "header": true,
+        "footer": true
+    },
+    {
+        "file": "index.html",
+        "sections": [
+            "Home hero",
+            "Machine availability",
+            "Service showcase",
+            "A little care makes a big difference.",
+            "Laundry process",
+            "Pricing preview",
+            "Large loads and everyday convenience",
+            "Branch locations",
+            "Customer stories",
+            "Visit Stillwater"
+        ],
+        "headings": [
+            "A fresh load. A lighter day.",
+            "A good time to drop in.",
+            "One less thing on your list.",
+            "Self-service, simply better.",
+            "A faster fresh finish.",
+            "Drop it. We’ll fold it.",
+            "A little care makes a big difference.",
+            "Four small steps. One fresh start.",
+            "Choose your machine",
+            "Load & wash",
+            "Dry your laundry",
+            "Fold & go",
+            "Fresh clothes. Fair, clear prices.",
+            "Standard washer",
+            "Large washer",
+            "Dryer cycle",
+            "Drop & collect",
+            "The whole week. One easy visit.",
+            "A fresh start, around the corner.",
+            "North Quarter",
+            "Riverside",
+            "West Park",
+            "A good habit, close to home.",
+            "Make laundry day the easy part of your week.",
+            "Explore",
+            "Laundry your way",
+            "Say hello",
+            ""
+        ],
+        "images": [
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg",
+            "../assets/images/home-1/sunlit-wash-center.webp",
+            "../assets/images/home-1/self-service-customer.webp",
+            "../assets/images/home-1/clean-steel-machine-row.webp",
+            "../assets/images/home-1/large-load-linen-basket.webp",
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg"
+        ],
+        "forms": 0,
+        "header": true,
+        "footer": true
+    },
+    {
+        "file": "locations.html",
+        "sections": [
+            "Locations introduction",
+            "Location finder",
+            "Branch locations",
+            "Neighborhood map",
+            "The useful details, already considered.",
+            "Visit Stillwater"
+        ],
+        "headings": [
+            "Your neighborhood. Your fresh start.",
+            "A fresh start, around the corner.",
+            "North Quarter",
+            "Riverside",
+            "West Park",
+            "A closer look at the neighborhood.",
+            "Monument Circle",
+            "The useful details, already considered.",
+            "Room to wash",
+            "Space to wait",
+            "Easy payments",
+            "A helping hand",
+            "Know where you are washing next?",
+            "Explore",
+            "Laundry your way",
+            "Say hello",
+            ""
+        ],
+        "images": [
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg",
+            "../assets/images/locations/neighborhood-visit-hero.webp",
+            "../assets/images/locations/north-quarter-laundry.webp",
+            "../assets/images/locations/riverside-laundry.webp",
+            "../assets/images/locations/west-park-laundrette.webp",
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg"
+        ],
+        "forms": 0,
+        "header": true,
+        "footer": true
+    },
+    {
+        "file": "pricing.html",
+        "sections": [
+            "Pricing introduction",
+            "Washer rate board",
+            "Dryer time and rates",
+            "Drop and collect rates",
+            "What is included",
+            "Visit Stillwater"
+        ],
+        "headings": [
+            "Simple pricing. A lighter laundry day.",
+            "Pay for the load. Keep it simple.",
+            "Standard washer",
+            "Large washer",
+            "Extra-large washer",
+            "Dry a little. Check. Repeat.",
+            "Standard",
+            "Large",
+            "Extra time",
+            "Care by the kilogram.",
+            "Clear from the first cycle.",
+            "Have a large or special load?",
+            "Explore",
+            "Laundry your way",
+            "Say hello",
+            ""
+        ],
+        "images": [
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg",
+            "../assets/images/pricing/clear-pricing-hero.webp",
+            "../assets/images/pricing/comfortable-laundry-space.webp",
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg"
+        ],
+        "forms": 0,
+        "header": true,
+        "footer": true
+    },
+    {
+        "file": "service-details.html",
+        "sections": [
+            "Page introduction",
+            "You choose the cycle. We make it simple.",
+            "Laundry process",
+            "Machine selection",
+            "Service pricing and FAQs",
+            "Visit Stillwater"
+        ],
+        "headings": [
+            "A better way to do your own laundry.",
+            "You choose the cycle. We make it simple.",
+            "From full basket to fresh clothes.",
+            "Choose your machine",
+            "Load & wash",
+            "Dry your laundry",
+            "Fold & go",
+            "A practical guide to the right drum.",
+            "Self-service wash rates.",
+            "Standard washer",
+            "Large washer",
+            "Extra-large washer",
+            "Your questions, sorted.",
+            "Do I need to bring detergent?",
+            "How long does a wash take?",
+            "Which machine size should I choose?",
+            "How is drop & collect priced?",
+            "Can I wash duvets and delicate fabrics?",
+            "What payment methods are accepted?",
+            "Finish the job, or let us take over.",
+            "Explore",
+            "Laundry your way",
+            "Say hello",
+            ""
+        ],
+        "images": [
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg",
+            "../assets/images/services/laundry-bag-and-washer.webp",
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg"
+        ],
+        "forms": 0,
+        "header": true,
+        "footer": true
+    },
+    {
+        "file": "services.html",
+        "sections": [
+            "Page introduction",
+            "Alternating service showcase",
+            "Machine selection",
+            "Wash, dry, fold. All taken care of.",
+            "Service questions",
+            "Visit Stillwater"
+        ],
+        "headings": [
+            "Your laundry. Your way.",
+            "Choose your load. Choose your cycle.",
+            "A fresh finish, at your pace.",
+            "Hand over the basket. Take back your time.",
+            "One basket. The right amount of space.",
+            "Wash, dry, fold. All taken care of.",
+            "A little guidance. A smoother laundry day.",
+            "Not sure which service fits your load?",
+            "Explore",
+            "Laundry your way",
+            "Say hello",
+            ""
+        ],
+        "images": [
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg",
+            "../assets/images/services/commercial-laundry-room.webp",
+            "../assets/images/services/customer-loading-laundry.webp",
+            "../assets/images/services/washer-dryer-center.webp",
+            "../assets/images/services/folded-clothing-handover.webp",
+            "../assets/images/services/freshly-folded-textiles.webp",
+            "../assets/images/brand/logo-dark.svg",
+            "../assets/images/brand/logo-light.svg"
+        ],
+        "forms": 0,
+        "header": true,
+        "footer": true
+    }
+]

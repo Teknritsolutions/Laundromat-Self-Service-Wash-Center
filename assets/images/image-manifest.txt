@@ -1,0 +1,219 @@
+Filename: home-1/sunlit-wash-center.webp
+Page: pages/index.html
+Section: Home hero
+Purpose: Bright front-loading commercial washers
+
+Filename: home-1/self-service-customer.webp
+Page: pages/index.html
+Section: Service showcase
+Purpose: Customer loading a commercial washer
+
+Filename: home-1/clean-steel-machine-row.webp
+Page: pages/index.html
+Section: A little care makes a big difference.
+Purpose: Clean stainless steel washer row
+
+Filename: home-1/large-load-linen-basket.webp
+Page: pages/index.html
+Section: Large loads and everyday convenience
+Purpose: Fresh linen in a laundry basket
+
+Filename: home-2/open-laundromat-interior.webp
+Page: pages/index-2.html
+Section: Editorial home hero
+Purpose: Spacious laundromat interior
+
+Filename: home-2/self-service-machine-detail.webp
+Page: pages/index-2.html
+Section: Self-service experience
+Purpose: Front-load washing machine detail
+
+Filename: home-2/professionally-folded-shirts.webp
+Page: pages/index-2.html
+Section: Drop and collect feature
+Purpose: Folded clothing ready for collection
+
+Filename: home-2/checked-drum.webp
+Page: pages/index-2.html
+Section: Care standards
+Purpose: Clean front-loading washer drum and door
+
+Filename: home-2/considered-cycles.webp
+Page: pages/index-2.html
+Section: Care standards
+Purpose: Commercial washers with controls and laundry loads
+
+Filename: home-2/fresh-folding-care.webp
+Page: pages/index-2.html
+Section: Care standards
+Purpose: Fresh clothing prepared for laundry care
+
+Filename: home-2/tidy-laundry-room.webp
+Page: pages/index-2.html
+Section: Care standards
+Purpose: Clean organized laundry room and basket
+
+Filename: home-2/neighborhood-laundry-exterior.webp
+Page: pages/index-2.html
+Section: Local convenience
+Purpose: Laundromat exterior at dusk
+
+Filename: about/bright-laundry-interior.webp
+Page: pages/about.html
+Section: Page introduction
+Purpose: Bright laundry center and machines
+
+Filename: about/customer-laundry-visit.webp
+Page: pages/about.html
+Section: Made for real neighborhood routines.
+Purpose: Customer seated beside laundry machines
+
+Filename: about/carefully-maintained-equipment.webp
+Page: pages/about.html
+Section: Equipment and standards
+Purpose: Attendant inspecting a commercial washer drum and seal; original AI-generated illustration
+
+Filename: about/visitor-portrait.webp
+Page: pages/about.html
+Section: Neighborhood story
+Purpose: Illustrative stock portrait for the fictional visitor testimonial
+
+Filename: services/commercial-laundry-room.webp
+Page: pages/services.html
+Section: Page introduction
+Purpose: Commercial washer and dryer row
+
+Filename: services/customer-loading-laundry.webp
+Page: pages/services.html
+Section: Alternating service showcase
+Purpose: Customer loading laundry into a front-loading washer
+
+Filename: services/washer-dryer-center.webp
+Page: pages/services.html
+Section: Alternating service showcase
+Purpose: Washer and dryer equipment
+
+Filename: services/folded-clothing-handover.webp
+Page: pages/services.html
+Section: Alternating service showcase
+Purpose: Hands organizing freshly folded clothing
+
+Filename: services/freshly-folded-textiles.webp
+Page: pages/services.html
+Section: Wash, dry, fold. All taken care of.
+Purpose: Neatly folded fabric and towels
+
+Filename: services/laundry-bag-and-washer.webp
+Page: pages/service-details.html
+Section: You choose the cycle. We make it simple.
+Purpose: Laundry bag beside a washing machine
+
+Filename: pricing/clear-pricing-hero.webp
+Page: pages/pricing.html
+Section: Pricing introduction
+Purpose: Commercial washing machines
+
+Filename: pricing/comfortable-laundry-space.webp
+Page: pages/pricing.html
+Section: What is included
+Purpose: Seating and machines in a wash center
+
+Filename: locations/neighborhood-visit-hero.webp
+Page: pages/locations.html
+Section: Locations introduction
+Purpose: Modern laundry center with seating
+
+Filename: locations/north-quarter-laundry.webp
+Page: pages/locations.html
+Section: Branch locations
+Purpose: Neighborhood laundry building
+
+Filename: locations/riverside-laundry.webp
+Page: pages/locations.html
+Section: Branch locations
+Purpose: Illuminated coin laundry storefront
+
+Filename: locations/west-park-laundrette.webp
+Page: pages/locations.html
+Section: Branch locations
+Purpose: Brick-front laundrette
+
+Filename: blog/everyday-laundry-journal.webp
+Page: pages/blog.html
+Section: Blog introduction
+Purpose: Everyday laundry baskets and fabrics
+
+Filename: blog/weekend-bedding-care.webp
+Page: pages/blog.html
+Section: Give your bedding room to breathe.
+Purpose: White duvet, sheets and pillowcases beside a commercial washer; original AI-generated illustration
+
+Filename: blog/bedding-ready-for-washing.webp
+Page: pages/blog.html
+Section: Laundry guides
+Purpose: Clean white bed linen
+
+Filename: blog/choosing-load-capacity.webp
+Page: pages/blog.html
+Section: Laundry guides
+Purpose: Three commercial washers with different drum capacities; original AI-generated illustration
+
+Filename: blog/drying-fabric-with-care.webp
+Page: pages/blog.html
+Section: Laundry guides
+Purpose: Commercial tumble dryer and a towel checked for dryness; original AI-generated illustration
+
+Filename: blog/fabric-care-symbols.svg
+Page: pages/blog.html
+Section: Laundry guides
+Purpose: Original fabric-care symbol diagram
+
+Filename: blog/sorted-delicate-shirts.webp
+Page: pages/blog.html
+Section: Laundry guides
+Purpose: Sorted folded shirts
+
+Filename: blog/clean-white-towel-stack.webp
+Page: pages/blog.html
+Section: Laundry guides
+Purpose: Clean folded white towels
+
+Filename: blog/everyday-fabric-care.webp
+Page: pages/blog-details.html
+Section: Page introduction
+Purpose: A stack of folded denim held with care
+
+Filename: blog/fabric-texture-detail.webp
+Page: pages/blog-details.html
+Section: Related reading
+Purpose: Smooth green textile illustrating delicate fabric care
+
+Filename: blog/cozy-folded-sweaters.webp
+Page: pages/blog-details.html
+Section: Related reading
+Purpose: Folded knitwear illustrating the knitwear care guide
+
+Filename: blog/soft-textile-closeup.webp
+Page: pages/blog-details.html
+Section: Related reading
+Purpose: Folded household linen illustrating bedding care
+
+Filename: contact/laundry-guidance-hero.webp
+Page: pages/contact.html
+Section: Contact introduction
+Purpose: Commercial washing machines
+
+Filename: contact/helpful-linen-care.webp
+Page: pages/contact.html
+Section: Enquiry form
+Purpose: Staff carrying freshly folded linen
+
+Filename: utility/fresh-way-back.webp
+Page: pages/404.html
+Section: Page not found
+Purpose: A woman folding laundry, a welcoming return to the website
+
+Filename: utility/fresh-routine-ahead.webp
+Page: pages/coming-soon.html
+Section: Coming soon
+Purpose: Family laundry care for the upcoming wash center

@@ -1,0 +1,1032 @@
+[
+  {
+    "file": "brand/logo-dark.svg",
+    "width": 300,
+    "height": 71,
+    "alt": "Stillwater Laundry and Wash Center",
+    "section": "Brand",
+    "declaredWidth": "300",
+    "declaredHeight": "64",
+    "uses": [
+      {
+        "page": "404.html",
+        "section": "Brand"
+      },
+      {
+        "page": "about.html",
+        "section": "Brand"
+      },
+      {
+        "page": "about.html",
+        "section": "Brand"
+      },
+      {
+        "page": "about.html",
+        "section": "Brand"
+      },
+      {
+        "page": "blog-details.html",
+        "section": "Brand"
+      },
+      {
+        "page": "blog-details.html",
+        "section": "Brand"
+      },
+      {
+        "page": "blog-details.html",
+        "section": "Brand"
+      },
+      {
+        "page": "blog.html",
+        "section": "Brand"
+      },
+      {
+        "page": "blog.html",
+        "section": "Brand"
+      },
+      {
+        "page": "blog.html",
+        "section": "Brand"
+      },
+      {
+        "page": "coming-soon.html",
+        "section": "Brand"
+      },
+      {
+        "page": "contact.html",
+        "section": "Brand"
+      },
+      {
+        "page": "contact.html",
+        "section": "Brand"
+      },
+      {
+        "page": "contact.html",
+        "section": "Brand"
+      },
+      {
+        "page": "index-2.html",
+        "section": "Brand"
+      },
+      {
+        "page": "index-2.html",
+        "section": "Brand"
+      },
+      {
+        "page": "index-2.html",
+        "section": "Brand"
+      },
+      {
+        "page": "index.html",
+        "section": "Brand"
+      },
+      {
+        "page": "index.html",
+        "section": "Brand"
+      },
+      {
+        "page": "index.html",
+        "section": "Brand"
+      },
+      {
+        "page": "locations.html",
+        "section": "Brand"
+      },
+      {
+        "page": "locations.html",
+        "section": "Brand"
+      },
+      {
+        "page": "locations.html",
+        "section": "Brand"
+      },
+      {
+        "page": "pricing.html",
+        "section": "Brand"
+      },
+      {
+        "page": "pricing.html",
+        "section": "Brand"
+      },
+      {
+        "page": "pricing.html",
+        "section": "Brand"
+      },
+      {
+        "page": "service-details.html",
+        "section": "Brand"
+      },
+      {
+        "page": "service-details.html",
+        "section": "Brand"
+      },
+      {
+        "page": "service-details.html",
+        "section": "Brand"
+      },
+      {
+        "page": "services.html",
+        "section": "Brand"
+      },
+      {
+        "page": "services.html",
+        "section": "Brand"
+      },
+      {
+        "page": "services.html",
+        "section": "Brand"
+      }
+    ],
+    "bytes": 614,
+    "format": "svg"
+  },
+  {
+    "file": "brand/logo-light.svg",
+    "width": 300,
+    "height": 71,
+    "alt": "Stillwater Laundry and Wash Center",
+    "section": "Brand",
+    "declaredWidth": "300",
+    "declaredHeight": "64",
+    "uses": [
+      {
+        "page": "404.html",
+        "section": "Brand"
+      },
+      {
+        "page": "about.html",
+        "section": "Brand"
+      },
+      {
+        "page": "about.html",
+        "section": "Brand"
+      },
+      {
+        "page": "about.html",
+        "section": "Brand"
+      },
+      {
+        "page": "blog-details.html",
+        "section": "Brand"
+      },
+      {
+        "page": "blog-details.html",
+        "section": "Brand"
+      },
+      {
+        "page": "blog-details.html",
+        "section": "Brand"
+      },
+      {
+        "page": "blog.html",
+        "section": "Brand"
+      },
+      {
+        "page": "blog.html",
+        "section": "Brand"
+      },
+      {
+        "page": "blog.html",
+        "section": "Brand"
+      },
+      {
+        "page": "coming-soon.html",
+        "section": "Brand"
+      },
+      {
+        "page": "contact.html",
+        "section": "Brand"
+      },
+      {
+        "page": "contact.html",
+        "section": "Brand"
+      },
+      {
+        "page": "contact.html",
+        "section": "Brand"
+      },
+      {
+        "page": "index-2.html",
+        "section": "Brand"
+      },
+      {
+        "page": "index-2.html",
+        "section": "Brand"
+      },
+      {
+        "page": "index-2.html",
+        "section": "Brand"
+      },
+      {
+        "page": "index.html",
+        "section": "Brand"
+      },
+      {
+        "page": "index.html",
+        "section": "Brand"
+      },
+      {
+        "page": "index.html",
+        "section": "Brand"
+      },
+      {
+        "page": "locations.html",
+        "section": "Brand"
+      },
+      {
+        "page": "locations.html",
+        "section": "Brand"
+      },
+      {
+        "page": "locations.html",
+        "section": "Brand"
+      },
+      {
+        "page": "pricing.html",
+        "section": "Brand"
+      },
+      {
+        "page": "pricing.html",
+        "section": "Brand"
+      },
+      {
+        "page": "pricing.html",
+        "section": "Brand"
+      },
+      {
+        "page": "service-details.html",
+        "section": "Brand"
+      },
+      {
+        "page": "service-details.html",
+        "section": "Brand"
+      },
+      {
+        "page": "service-details.html",
+        "section": "Brand"
+      },
+      {
+        "page": "services.html",
+        "section": "Brand"
+      },
+      {
+        "page": "services.html",
+        "section": "Brand"
+      },
+      {
+        "page": "services.html",
+        "section": "Brand"
+      }
+    ],
+    "bytes": 614,
+    "format": "svg"
+  },
+  {
+    "file": "utility/fresh-way-back.webp",
+    "width": 600,
+    "height": 900,
+    "alt": "A woman folding fresh laundry",
+    "section": "Page not found",
+    "declaredWidth": "600",
+    "declaredHeight": "900",
+    "uses": [
+      {
+        "page": "404.html",
+        "section": "Page not found"
+      }
+    ],
+    "bytes": 54786,
+    "format": "webp"
+  },
+  {
+    "file": "about/bright-laundry-interior.webp",
+    "width": 1500,
+    "height": 997,
+    "alt": "Bright laundry center and machines",
+    "section": "Page introduction",
+    "declaredWidth": "1500",
+    "declaredHeight": "997",
+    "uses": [
+      {
+        "page": "about.html",
+        "section": "Page introduction"
+      }
+    ],
+    "bytes": 129250,
+    "format": "webp"
+  },
+  {
+    "file": "about/customer-laundry-visit.webp",
+    "width": 1400,
+    "height": 2100,
+    "alt": "Customer seated beside laundry machines",
+    "section": "Made for real neighborhood routines.",
+    "declaredWidth": "1400",
+    "declaredHeight": "2100",
+    "uses": [
+      {
+        "page": "about.html",
+        "section": "Made for real neighborhood routines."
+      }
+    ],
+    "bytes": 122568,
+    "format": "webp"
+  },
+  {
+    "file": "about/carefully-maintained-equipment.webp",
+    "width": 1200,
+    "height": 900,
+    "alt": "Clean, maintained commercial washing machines",
+    "section": "Equipment and standards",
+    "declaredWidth": "1200",
+    "declaredHeight": "900",
+    "uses": [
+      {
+        "page": "about.html",
+        "section": "Equipment and standards"
+      }
+    ],
+    "bytes": 113330,
+    "format": "webp"
+  },
+  {
+    "file": "about/visitor-portrait.webp",
+    "width": 300,
+    "height": 300,
+    "alt": "Illustrative stock portrait of a visitor",
+    "section": "Neighborhood story",
+    "declaredWidth": "300",
+    "declaredHeight": "300",
+    "uses": [
+      {
+        "page": "about.html",
+        "section": "Neighborhood story"
+      }
+    ],
+    "bytes": 8926,
+    "format": "webp"
+  },
+  {
+    "file": "blog/everyday-fabric-care.webp",
+    "width": 900,
+    "height": 900,
+    "alt": "A stack of folded denim held with care",
+    "section": "Page introduction",
+    "declaredWidth": "900",
+    "declaredHeight": "900",
+    "uses": [
+      {
+        "page": "blog-details.html",
+        "section": "Page introduction"
+      }
+    ],
+    "bytes": 137908,
+    "format": "webp"
+  },
+  {
+    "file": "blog/fabric-texture-detail.webp",
+    "width": 601,
+    "height": 900,
+    "alt": "Smooth green fabric for delicate garment care",
+    "section": "Related reading",
+    "declaredWidth": "601",
+    "declaredHeight": "900",
+    "uses": [
+      {
+        "page": "blog-details.html",
+        "section": "Related reading"
+      }
+    ],
+    "bytes": 106458,
+    "format": "webp"
+  },
+  {
+    "file": "blog/cozy-folded-sweaters.webp",
+    "width": 600,
+    "height": 900,
+    "alt": "Folded sweaters in neutral colors",
+    "section": "Related reading",
+    "declaredWidth": "600",
+    "declaredHeight": "900",
+    "uses": [
+      {
+        "page": "blog-details.html",
+        "section": "Related reading"
+      }
+    ],
+    "bytes": 76162,
+    "format": "webp"
+  },
+  {
+    "file": "blog/soft-textile-closeup.webp",
+    "width": 1500,
+    "height": 1000,
+    "alt": "Fresh folded household linen",
+    "section": "Related reading",
+    "declaredWidth": "1500",
+    "declaredHeight": "1000",
+    "uses": [
+      {
+        "page": "blog-details.html",
+        "section": "Related reading"
+      }
+    ],
+    "bytes": 49986,
+    "format": "webp"
+  },
+  {
+    "file": "blog/everyday-laundry-journal.webp",
+    "width": 1400,
+    "height": 933,
+    "alt": "Laundry baskets filled with everyday clothes and towels",
+    "section": "Blog introduction",
+    "declaredWidth": "1400",
+    "declaredHeight": "933",
+    "uses": [
+      {
+        "page": "blog.html",
+        "section": "Blog introduction"
+      }
+    ],
+    "bytes": 96042,
+    "format": "webp"
+  },
+  {
+    "file": "blog/weekend-bedding-care.webp",
+    "width": 1200,
+    "height": 900,
+    "alt": "White duvet, sheets and pillowcases ready for washing",
+    "section": "Give your bedding room to breathe.",
+    "declaredWidth": "1200",
+    "declaredHeight": "900",
+    "uses": [
+      {
+        "page": "blog.html",
+        "section": "Give your bedding room to breathe."
+      }
+    ],
+    "bytes": 71194,
+    "format": "webp"
+  },
+  {
+    "file": "blog/bedding-ready-for-washing.webp",
+    "width": 1400,
+    "height": 932,
+    "alt": "Clean white bed linen",
+    "section": "Laundry guides",
+    "declaredWidth": "1400",
+    "declaredHeight": "932",
+    "uses": [
+      {
+        "page": "blog.html",
+        "section": "Laundry guides"
+      }
+    ],
+    "bytes": 64238,
+    "format": "webp"
+  },
+  {
+    "file": "blog/choosing-load-capacity.webp",
+    "width": 1200,
+    "height": 900,
+    "alt": "Commercial washers with three different drum capacities",
+    "section": "Laundry guides",
+    "declaredWidth": "1200",
+    "declaredHeight": "900",
+    "uses": [
+      {
+        "page": "blog.html",
+        "section": "Laundry guides"
+      }
+    ],
+    "bytes": 101298,
+    "format": "webp"
+  },
+  {
+    "file": "blog/drying-fabric-with-care.webp",
+    "width": 1200,
+    "height": 900,
+    "alt": "Commercial tumble dryer with fresh laundry and a towel",
+    "section": "Laundry guides",
+    "declaredWidth": "1200",
+    "declaredHeight": "900",
+    "uses": [
+      {
+        "page": "blog.html",
+        "section": "Laundry guides"
+      }
+    ],
+    "bytes": 121846,
+    "format": "webp"
+  },
+  {
+    "file": "blog/fabric-care-symbols.svg",
+    "width": 225,
+    "height": 150,
+    "alt": "Laundry symbols, explained",
+    "section": "Laundry guides",
+    "declaredWidth": "1500",
+    "declaredHeight": "1125",
+    "uses": [
+      {
+        "page": "blog.html",
+        "section": "Laundry guides"
+      }
+    ],
+    "bytes": 702,
+    "format": "svg"
+  },
+  {
+    "file": "blog/sorted-delicate-shirts.webp",
+    "width": 1500,
+    "height": 1000,
+    "alt": "Sorted folded shirts",
+    "section": "Laundry guides",
+    "declaredWidth": "1500",
+    "declaredHeight": "1000",
+    "uses": [
+      {
+        "page": "blog.html",
+        "section": "Laundry guides"
+      }
+    ],
+    "bytes": 90028,
+    "format": "webp"
+  },
+  {
+    "file": "blog/clean-white-towel-stack.webp",
+    "width": 1400,
+    "height": 2100,
+    "alt": "Clean folded white towels",
+    "section": "Laundry guides",
+    "declaredWidth": "1400",
+    "declaredHeight": "2100",
+    "uses": [
+      {
+        "page": "blog.html",
+        "section": "Laundry guides"
+      }
+    ],
+    "bytes": 99524,
+    "format": "webp"
+  },
+  {
+    "file": "utility/fresh-routine-ahead.webp",
+    "width": 1400,
+    "height": 2100,
+    "alt": "A family folding fresh laundry together",
+    "section": "Coming soon",
+    "declaredWidth": "1400",
+    "declaredHeight": "2100",
+    "uses": [
+      {
+        "page": "coming-soon.html",
+        "section": "Coming soon"
+      }
+    ],
+    "bytes": 134136,
+    "format": "webp"
+  },
+  {
+    "file": "contact/laundry-guidance-hero.webp",
+    "width": 1400,
+    "height": 956,
+    "alt": "Commercial washing machines ready for a laundry visit",
+    "section": "Contact introduction",
+    "declaredWidth": "1400",
+    "declaredHeight": "956",
+    "uses": [
+      {
+        "page": "contact.html",
+        "section": "Contact introduction"
+      }
+    ],
+    "bytes": 100176,
+    "format": "webp"
+  },
+  {
+    "file": "contact/helpful-linen-care.webp",
+    "width": 1400,
+    "height": 933,
+    "alt": "A staff member carrying a stack of fresh linen",
+    "section": "Enquiry form",
+    "declaredWidth": "1400",
+    "declaredHeight": "933",
+    "uses": [
+      {
+        "page": "contact.html",
+        "section": "Enquiry form"
+      }
+    ],
+    "bytes": 36312,
+    "format": "webp"
+  },
+  {
+    "file": "home-2/open-laundromat-interior.webp",
+    "width": 1500,
+    "height": 1000,
+    "alt": "An open neighborhood laundromat with rows of machines and folding space",
+    "section": "Editorial home hero",
+    "declaredWidth": "1500",
+    "declaredHeight": "1000",
+    "uses": [
+      {
+        "page": "index-2.html",
+        "section": "Editorial home hero"
+      }
+    ],
+    "bytes": 123798,
+    "format": "webp"
+  },
+  {
+    "file": "home-2/self-service-machine-detail.webp",
+    "width": 1500,
+    "height": 843,
+    "alt": "Clean front-loading machine in a laundry center",
+    "section": "Self-service experience",
+    "declaredWidth": "1500",
+    "declaredHeight": "843",
+    "uses": [
+      {
+        "page": "index-2.html",
+        "section": "Self-service experience"
+      }
+    ],
+    "bytes": 143996,
+    "format": "webp"
+  },
+  {
+    "file": "home-2/professionally-folded-shirts.webp",
+    "width": 1500,
+    "height": 1000,
+    "alt": "Stack of professionally folded clothes ready for collection",
+    "section": "Drop and collect feature",
+    "declaredWidth": "1500",
+    "declaredHeight": "1000",
+    "uses": [
+      {
+        "page": "index-2.html",
+        "section": "Drop and collect feature"
+      }
+    ],
+    "bytes": 73806,
+    "format": "webp"
+  },
+  {
+    "file": "home-2/checked-drum.webp",
+    "width": 1000,
+    "height": 667,
+    "alt": "Checked machines",
+    "section": "Care standards",
+    "declaredWidth": "1000",
+    "declaredHeight": "667",
+    "uses": [
+      {
+        "page": "index-2.html",
+        "section": "Care standards"
+      }
+    ],
+    "bytes": 59902,
+    "format": "webp"
+  },
+  {
+    "file": "home-2/considered-cycles.webp",
+    "width": 1000,
+    "height": 1500,
+    "alt": "Considered cycles",
+    "section": "Care standards",
+    "declaredWidth": "1000",
+    "declaredHeight": "1500",
+    "uses": [
+      {
+        "page": "index-2.html",
+        "section": "Care standards"
+      }
+    ],
+    "bytes": 107716,
+    "format": "webp"
+  },
+  {
+    "file": "home-2/fresh-folding-care.webp",
+    "width": 1000,
+    "height": 667,
+    "alt": "Fresh folding",
+    "section": "Care standards",
+    "declaredWidth": "1000",
+    "declaredHeight": "667",
+    "uses": [
+      {
+        "page": "index-2.html",
+        "section": "Care standards"
+      }
+    ],
+    "bytes": 61880,
+    "format": "webp"
+  },
+  {
+    "file": "home-2/tidy-laundry-room.webp",
+    "width": 1000,
+    "height": 563,
+    "alt": "Tidy facilities",
+    "section": "Care standards",
+    "declaredWidth": "1000",
+    "declaredHeight": "563",
+    "uses": [
+      {
+        "page": "index-2.html",
+        "section": "Care standards"
+      }
+    ],
+    "bytes": 60850,
+    "format": "webp"
+  },
+  {
+    "file": "home-2/neighborhood-laundry-exterior.webp",
+    "width": 1500,
+    "height": 1000,
+    "alt": "A neighborhood laundromat illuminated at dusk",
+    "section": "Local convenience",
+    "declaredWidth": "1500",
+    "declaredHeight": "1000",
+    "uses": [
+      {
+        "page": "index-2.html",
+        "section": "Local convenience"
+      }
+    ],
+    "bytes": 84730,
+    "format": "webp"
+  },
+  {
+    "file": "home-1/sunlit-wash-center.webp",
+    "width": 1500,
+    "height": 1000,
+    "alt": "Sunlit laundromat with a row of clean front-loading machines",
+    "section": "Home hero",
+    "declaredWidth": "1500",
+    "declaredHeight": "1000",
+    "uses": [
+      {
+        "page": "index.html",
+        "section": "Home hero"
+      }
+    ],
+    "bytes": 71700,
+    "format": "webp"
+  },
+  {
+    "file": "home-1/self-service-customer.webp",
+    "width": 600,
+    "height": 900,
+    "alt": "Customer loading a front-loading commercial washer",
+    "section": "Service showcase",
+    "declaredWidth": "600",
+    "declaredHeight": "900",
+    "uses": [
+      {
+        "page": "index.html",
+        "section": "Service showcase"
+      }
+    ],
+    "bytes": 56860,
+    "format": "webp"
+  },
+  {
+    "file": "home-1/clean-steel-machine-row.webp",
+    "width": 1500,
+    "height": 2249,
+    "alt": "Clean stainless steel washer row",
+    "section": "A little care makes a big difference.",
+    "declaredWidth": "1500",
+    "declaredHeight": "2249",
+    "uses": [
+      {
+        "page": "index.html",
+        "section": "A little care makes a big difference."
+      }
+    ],
+    "bytes": 76946,
+    "format": "webp"
+  },
+  {
+    "file": "home-1/large-load-linen-basket.webp",
+    "width": 1500,
+    "height": 1000,
+    "alt": "Fresh laundry and linen in a spacious basket",
+    "section": "Large loads and everyday convenience",
+    "declaredWidth": "1500",
+    "declaredHeight": "1000",
+    "uses": [
+      {
+        "page": "index.html",
+        "section": "Large loads and everyday convenience"
+      }
+    ],
+    "bytes": 36984,
+    "format": "webp"
+  },
+  {
+    "file": "locations/neighborhood-visit-hero.webp",
+    "width": 1017,
+    "height": 1200,
+    "alt": "Modern laundry center with washing machines and comfortable seating",
+    "section": "Locations introduction",
+    "declaredWidth": "1017",
+    "declaredHeight": "1200",
+    "uses": [
+      {
+        "page": "locations.html",
+        "section": "Locations introduction"
+      }
+    ],
+    "bytes": 117054,
+    "format": "webp"
+  },
+  {
+    "file": "locations/north-quarter-laundry.webp",
+    "width": 1500,
+    "height": 2000,
+    "alt": "Neighborhood laundry building",
+    "section": "Branch locations",
+    "declaredWidth": "1500",
+    "declaredHeight": "2000",
+    "uses": [
+      {
+        "page": "locations.html",
+        "section": "Branch locations"
+      }
+    ],
+    "bytes": 112996,
+    "format": "webp"
+  },
+  {
+    "file": "locations/riverside-laundry.webp",
+    "width": 1500,
+    "height": 1125,
+    "alt": "Illuminated coin laundry storefront",
+    "section": "Branch locations",
+    "declaredWidth": "1500",
+    "declaredHeight": "1125",
+    "uses": [
+      {
+        "page": "locations.html",
+        "section": "Branch locations"
+      }
+    ],
+    "bytes": 108982,
+    "format": "webp"
+  },
+  {
+    "file": "locations/west-park-laundrette.webp",
+    "width": 599,
+    "height": 900,
+    "alt": "Brick-front laundrette",
+    "section": "Branch locations",
+    "declaredWidth": "599",
+    "declaredHeight": "900",
+    "uses": [
+      {
+        "page": "locations.html",
+        "section": "Branch locations"
+      }
+    ],
+    "bytes": 96168,
+    "format": "webp"
+  },
+  {
+    "file": "pricing/clear-pricing-hero.webp",
+    "width": 800,
+    "height": 1200,
+    "alt": "Commercial laundry machines and spacious folding counters",
+    "section": "Pricing introduction",
+    "declaredWidth": "800",
+    "declaredHeight": "1200",
+    "uses": [
+      {
+        "page": "pricing.html",
+        "section": "Pricing introduction"
+      }
+    ],
+    "bytes": 180910,
+    "format": "webp"
+  },
+  {
+    "file": "pricing/comfortable-laundry-space.webp",
+    "width": 600,
+    "height": 900,
+    "alt": "Laundry machines and seating in a neighborhood wash center",
+    "section": "What is included",
+    "declaredWidth": "600",
+    "declaredHeight": "900",
+    "uses": [
+      {
+        "page": "pricing.html",
+        "section": "What is included"
+      }
+    ],
+    "bytes": 44002,
+    "format": "webp"
+  },
+  {
+    "file": "services/laundry-bag-and-washer.webp",
+    "width": 1500,
+    "height": 828,
+    "alt": "Laundry bag beside a washing machine",
+    "section": "You choose the cycle. We make it simple.",
+    "declaredWidth": "1500",
+    "declaredHeight": "828",
+    "uses": [
+      {
+        "page": "service-details.html",
+        "section": "You choose the cycle. We make it simple."
+      }
+    ],
+    "bytes": 100272,
+    "format": "webp"
+  },
+  {
+    "file": "services/commercial-laundry-room.webp",
+    "width": 1500,
+    "height": 896,
+    "alt": "Commercial washer and dryer row",
+    "section": "Page introduction",
+    "declaredWidth": "1500",
+    "declaredHeight": "896",
+    "uses": [
+      {
+        "page": "services.html",
+        "section": "Page introduction"
+      }
+    ],
+    "bytes": 130582,
+    "format": "webp"
+  },
+  {
+    "file": "services/customer-loading-laundry.webp",
+    "width": 600,
+    "height": 900,
+    "alt": "Customer loading clothes into a front-loading washer",
+    "section": "Alternating service showcase",
+    "declaredWidth": "600",
+    "declaredHeight": "900",
+    "uses": [
+      {
+        "page": "services.html",
+        "section": "Alternating service showcase"
+      }
+    ],
+    "bytes": 39356,
+    "format": "webp"
+  },
+  {
+    "file": "services/washer-dryer-center.webp",
+    "width": 1500,
+    "height": 2250,
+    "alt": "Washer and dryer equipment ready for a laundry visit",
+    "section": "Alternating service showcase",
+    "declaredWidth": "1500",
+    "declaredHeight": "2250",
+    "uses": [
+      {
+        "page": "services.html",
+        "section": "Alternating service showcase"
+      }
+    ],
+    "bytes": 172246,
+    "format": "webp"
+  },
+  {
+    "file": "services/folded-clothing-handover.webp",
+    "width": 1400,
+    "height": 2100,
+    "alt": "Hands arranging folded clothing for collection",
+    "section": "Alternating service showcase",
+    "declaredWidth": "1400",
+    "declaredHeight": "2100",
+    "uses": [
+      {
+        "page": "services.html",
+        "section": "Alternating service showcase"
+      }
+    ],
+    "bytes": 119844,
+    "format": "webp"
+  },
+  {
+    "file": "services/freshly-folded-textiles.webp",
+    "width": 1500,
+    "height": 1001,
+    "alt": "Neatly folded fabric and towels",
+    "section": "Wash, dry, fold. All taken care of.",
+    "declaredWidth": "1500",
+    "declaredHeight": "1001",
+    "uses": [
+      {
+        "page": "services.html",
+        "section": "Wash, dry, fold. All taken care of."
+      }
+    ],
+    "bytes": 91838,
+    "format": "webp"
+  }
+]

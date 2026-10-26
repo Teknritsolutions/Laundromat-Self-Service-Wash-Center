@@ -1,0 +1,266 @@
+[
+    {
+        "file": "home-1/sunlit-wash-center.webp",
+        "page": "pages/index.html",
+        "section": "Home hero",
+        "purpose": "Bright front-loading commercial washers"
+    },
+    {
+        "file": "home-1/self-service-customer.webp",
+        "page": "pages/index.html",
+        "section": "Service showcase",
+        "purpose": "Customer loading a commercial washer"
+    },
+    {
+        "file": "home-1/clean-steel-machine-row.webp",
+        "page": "pages/index.html",
+        "section": "A little care makes a big difference.",
+        "purpose": "Clean stainless steel washer row"
+    },
+    {
+        "file": "home-1/large-load-linen-basket.webp",
+        "page": "pages/index.html",
+        "section": "Large loads and everyday convenience",
+        "purpose": "Fresh linen in a laundry basket"
+    },
+    {
+        "file": "home-2/open-laundromat-interior.webp",
+        "page": "pages/index-2.html",
+        "section": "Editorial home hero",
+        "purpose": "Spacious laundromat interior"
+    },
+    {
+        "file": "home-2/self-service-machine-detail.webp",
+        "page": "pages/index-2.html",
+        "section": "Self-service experience",
+        "purpose": "Front-load washing machine detail"
+    },
+    {
+        "file": "home-2/professionally-folded-shirts.webp",
+        "page": "pages/index-2.html",
+        "section": "Drop and collect feature",
+        "purpose": "Folded clothing ready for collection"
+    },
+    {
+        "file": "home-2/checked-drum.webp",
+        "page": "pages/index-2.html",
+        "section": "Care standards",
+        "purpose": "Clean front-loading washer drum and door"
+    },
+    {
+        "file": "home-2/considered-cycles.webp",
+        "page": "pages/index-2.html",
+        "section": "Care standards",
+        "purpose": "Commercial washers with controls and laundry loads"
+    },
+    {
+        "file": "home-2/fresh-folding-care.webp",
+        "page": "pages/index-2.html",
+        "section": "Care standards",
+        "purpose": "Fresh clothing prepared for laundry care"
+    },
+    {
+        "file": "home-2/tidy-laundry-room.webp",
+        "page": "pages/index-2.html",
+        "section": "Care standards",
+        "purpose": "Clean organized laundry room and basket"
+    },
+    {
+        "file": "home-2/neighborhood-laundry-exterior.webp",
+        "page": "pages/index-2.html",
+        "section": "Local convenience",
+        "purpose": "Laundromat exterior at dusk"
+    },
+    {
+        "file": "about/bright-laundry-interior.webp",
+        "page": "pages/about.html",
+        "section": "Page introduction",
+        "purpose": "Bright laundry center and machines"
+    },
+    {
+        "file": "about/customer-laundry-visit.webp",
+        "page": "pages/about.html",
+        "section": "Made for real neighborhood routines.",
+        "purpose": "Customer seated beside laundry machines"
+    },
+    {
+        "file": "about/carefully-maintained-equipment.webp",
+        "page": "pages/about.html",
+        "section": "Equipment and standards",
+        "purpose": "Attendant inspecting a commercial washer drum and seal; original AI-generated illustration"
+    },
+    {
+        "file": "about/visitor-portrait.webp",
+        "page": "pages/about.html",
+        "section": "Neighborhood story",
+        "purpose": "Illustrative stock portrait for the fictional visitor testimonial"
+    },
+    {
+        "file": "services/commercial-laundry-room.webp",
+        "page": "pages/services.html",
+        "section": "Page introduction",
+        "purpose": "Commercial washer and dryer row"
+    },
+    {
+        "file": "services/customer-loading-laundry.webp",
+        "page": "pages/services.html",
+        "section": "Alternating service showcase",
+        "purpose": "Customer loading laundry into a front-loading washer"
+    },
+    {
+        "file": "services/washer-dryer-center.webp",
+        "page": "pages/services.html",
+        "section": "Alternating service showcase",
+        "purpose": "Washer and dryer equipment"
+    },
+    {
+        "file": "services/folded-clothing-handover.webp",
+        "page": "pages/services.html",
+        "section": "Alternating service showcase",
+        "purpose": "Hands organizing freshly folded clothing"
+    },
+    {
+        "file": "services/freshly-folded-textiles.webp",
+        "page": "pages/services.html",
+        "section": "Wash, dry, fold. All taken care of.",
+        "purpose": "Neatly folded fabric and towels"
+    },
+    {
+        "file": "services/laundry-bag-and-washer.webp",
+        "page": "pages/service-details.html",
+        "section": "You choose the cycle. We make it simple.",
+        "purpose": "Laundry bag beside a washing machine"
+    },
+    {
+        "file": "pricing/clear-pricing-hero.webp",
+        "page": "pages/pricing.html",
+        "section": "Pricing introduction",
+        "purpose": "Commercial washing machines"
+    },
+    {
+        "file": "pricing/comfortable-laundry-space.webp",
+        "page": "pages/pricing.html",
+        "section": "What is included",
+        "purpose": "Seating and machines in a wash center"
+    },
+    {
+        "file": "locations/neighborhood-visit-hero.webp",
+        "page": "pages/locations.html",
+        "section": "Locations introduction",
+        "purpose": "Modern laundry center with seating"
+    },
+    {
+        "file": "locations/north-quarter-laundry.webp",
+        "page": "pages/locations.html",
+        "section": "Branch locations",
+        "purpose": "Neighborhood laundry building"
+    },
+    {
+        "file": "locations/riverside-laundry.webp",
+        "page": "pages/locations.html",
+        "section": "Branch locations",
+        "purpose": "Illuminated coin laundry storefront"
+    },
+    {
+        "file": "locations/west-park-laundrette.webp",
+        "page": "pages/locations.html",
+        "section": "Branch locations",
+        "purpose": "Brick-front laundrette"
+    },
+    {
+        "file": "blog/everyday-laundry-journal.webp",
+        "page": "pages/blog.html",
+        "section": "Blog introduction",
+        "purpose": "Everyday laundry baskets and fabrics"
+    },
+    {
+        "file": "blog/weekend-bedding-care.webp",
+        "page": "pages/blog.html",
+        "section": "Give your bedding room to breathe.",
+        "purpose": "White duvet, sheets and pillowcases beside a commercial washer; original AI-generated illustration"
+    },
+    {
+        "file": "blog/bedding-ready-for-washing.webp",
+        "page": "pages/blog.html",
+        "section": "Laundry guides",
+        "purpose": "Clean white bed linen"
+    },
+    {
+        "file": "blog/choosing-load-capacity.webp",
+        "page": "pages/blog.html",
+        "section": "Laundry guides",
+        "purpose": "Three commercial washers with different drum capacities; original AI-generated illustration"
+    },
+    {
+        "file": "blog/drying-fabric-with-care.webp",
+        "page": "pages/blog.html",
+        "section": "Laundry guides",
+        "purpose": "Commercial tumble dryer and a towel checked for dryness; original AI-generated illustration"
+    },
+    {
+        "file": "blog/fabric-care-symbols.svg",
+        "page": "pages/blog.html",
+        "section": "Laundry guides",
+        "purpose": "Original fabric-care symbol diagram"
+    },
+    {
+        "file": "blog/sorted-delicate-shirts.webp",
+        "page": "pages/blog.html",
+        "section": "Laundry guides",
+        "purpose": "Sorted folded shirts"
+    },
+    {
+        "file": "blog/clean-white-towel-stack.webp",
+        "page": "pages/blog.html",
+        "section": "Laundry guides",
+        "purpose": "Clean folded white towels"
+    },
+    {
+        "file": "blog/everyday-fabric-care.webp",
+        "page": "pages/blog-details.html",
+        "section": "Page introduction",
+        "purpose": "A stack of folded denim held with care"
+    },
+    {
+        "file": "blog/fabric-texture-detail.webp",
+        "page": "pages/blog-details.html",
+        "section": "Related reading",
+        "purpose": "Smooth green textile illustrating delicate fabric care"
+    },
+    {
+        "file": "blog/cozy-folded-sweaters.webp",
+        "page": "pages/blog-details.html",
+        "section": "Related reading",
+        "purpose": "Folded knitwear illustrating the knitwear care guide"
+    },
+    {
+        "file": "blog/soft-textile-closeup.webp",
+        "page": "pages/blog-details.html",
+        "section": "Related reading",
+        "purpose": "Folded household linen illustrating bedding care"
+    },
+    {
+        "file": "contact/laundry-guidance-hero.webp",
+        "page": "pages/contact.html",
+        "section": "Contact introduction",
+        "purpose": "Commercial washing machines"
+    },
+    {
+        "file": "contact/helpful-linen-care.webp",
+        "page": "pages/contact.html",
+        "section": "Enquiry form",
+        "purpose": "Staff carrying freshly folded linen"
+    },
+    {
+        "file": "utility/fresh-way-back.webp",
+        "page": "pages/404.html",
+        "section": "Page not found",
+        "purpose": "A woman folding laundry, a welcoming return to the website"
+    },
+    {
+        "file": "utility/fresh-routine-ahead.webp",
+        "page": "pages/coming-soon.html",
+        "section": "Coming soon",
+        "purpose": "Family laundry care for the upcoming wash center"
+    }
+]

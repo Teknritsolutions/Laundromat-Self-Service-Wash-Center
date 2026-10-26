@@ -1,0 +1,971 @@
+{
+    "results": [
+        {
+            "file": "404.html",
+            "width": 768,
+            "dir": "ltr",
+            "checks": []
+        },
+        {
+            "file": "404.html",
+            "width": 768,
+            "dir": "rtl",
+            "checks": []
+        },
+        {
+            "file": "404.html",
+            "width": 1280,
+            "dir": "ltr",
+            "checks": []
+        },
+        {
+            "file": "404.html",
+            "width": 1280,
+            "dir": "rtl",
+            "checks": []
+        },
+        {
+            "file": "404.html",
+            "width": 1920,
+            "dir": "ltr",
+            "checks": []
+        },
+        {
+            "file": "404.html",
+            "width": 1920,
+            "dir": "rtl",
+            "checks": []
+        },
+        {
+            "file": "about.html",
+            "width": 768,
+            "dir": "ltr",
+            "checks": []
+        },
+        {
+            "file": "about.html",
+            "width": 768,
+            "dir": "rtl",
+            "checks": []
+        },
+        {
+            "file": "about.html",
+            "width": 1280,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "inner-hero split",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "split reverse",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "about.html",
+            "width": 1280,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "inner-hero split",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "split reverse",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "about.html",
+            "width": 1920,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "inner-hero split",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "split reverse",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "about.html",
+            "width": 1920,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "inner-hero split",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "split reverse",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "blog-details.html",
+            "width": 768,
+            "dir": "ltr",
+            "checks": []
+        },
+        {
+            "file": "blog-details.html",
+            "width": 768,
+            "dir": "rtl",
+            "checks": []
+        },
+        {
+            "file": "blog-details.html",
+            "width": 1280,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "inner-hero split",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "blog-details.html",
+            "width": 1280,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "inner-hero split",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "blog-details.html",
+            "width": 1920,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "inner-hero split",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "blog-details.html",
+            "width": 1920,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "inner-hero split",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "blog.html",
+            "width": 768,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "row",
+                    "selector": "grid cards blog-grid editorial-grid",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards blog-grid editorial-grid",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards blog-grid editorial-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "blog.html",
+            "width": 768,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "row",
+                    "selector": "grid cards blog-grid editorial-grid",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards blog-grid editorial-grid",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards blog-grid editorial-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "blog.html",
+            "width": 1280,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "split reverse",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards blog-grid editorial-grid",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards blog-grid editorial-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "blog.html",
+            "width": 1280,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "split reverse",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards blog-grid editorial-grid",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards blog-grid editorial-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "blog.html",
+            "width": 1920,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "split reverse",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards blog-grid editorial-grid",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards blog-grid editorial-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "blog.html",
+            "width": 1920,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "split reverse",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards blog-grid editorial-grid",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards blog-grid editorial-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "coming-soon.html",
+            "width": 768,
+            "dir": "ltr",
+            "checks": []
+        },
+        {
+            "file": "coming-soon.html",
+            "width": 768,
+            "dir": "rtl",
+            "checks": []
+        },
+        {
+            "file": "coming-soon.html",
+            "width": 1280,
+            "dir": "ltr",
+            "checks": []
+        },
+        {
+            "file": "coming-soon.html",
+            "width": 1280,
+            "dir": "rtl",
+            "checks": []
+        },
+        {
+            "file": "coming-soon.html",
+            "width": 1920,
+            "dir": "ltr",
+            "checks": []
+        },
+        {
+            "file": "coming-soon.html",
+            "width": 1920,
+            "dir": "rtl",
+            "checks": []
+        },
+        {
+            "file": "contact.html",
+            "width": 768,
+            "dir": "ltr",
+            "checks": []
+        },
+        {
+            "file": "contact.html",
+            "width": 768,
+            "dir": "rtl",
+            "checks": []
+        },
+        {
+            "file": "contact.html",
+            "width": 1280,
+            "dir": "ltr",
+            "checks": []
+        },
+        {
+            "file": "contact.html",
+            "width": 1280,
+            "dir": "rtl",
+            "checks": []
+        },
+        {
+            "file": "contact.html",
+            "width": 1920,
+            "dir": "ltr",
+            "checks": []
+        },
+        {
+            "file": "contact.html",
+            "width": 1920,
+            "dir": "rtl",
+            "checks": []
+        },
+        {
+            "file": "index-2.html",
+            "width": 768,
+            "dir": "ltr",
+            "checks": []
+        },
+        {
+            "file": "index-2.html",
+            "width": 768,
+            "dir": "rtl",
+            "checks": []
+        },
+        {
+            "file": "index-2.html",
+            "width": 1280,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "experience-layout",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "drop-feature",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "location-feature",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "index-2.html",
+            "width": 1280,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "experience-layout",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "drop-feature",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "location-feature",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "index-2.html",
+            "width": 1920,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "experience-layout",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "drop-feature",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "location-feature",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "index-2.html",
+            "width": 1920,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "experience-layout",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "drop-feature",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "location-feature",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "index.html",
+            "width": 768,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "hero-grid",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards location-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "index.html",
+            "width": 768,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "hero-grid",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards location-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "index.html",
+            "width": 1280,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "hero-grid",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "split",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "split reverse editorial-convenience",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards location-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "index.html",
+            "width": 1280,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "hero-grid",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "split",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "split reverse editorial-convenience",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards location-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "index.html",
+            "width": 1920,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "hero-grid",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "split",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "split reverse editorial-convenience",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards location-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "index.html",
+            "width": 1920,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "hero-grid",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "split",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "split reverse editorial-convenience",
+                    "delta": 0
+                },
+                {
+                    "kind": "row",
+                    "selector": "grid cards location-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "locations.html",
+            "width": 768,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "row",
+                    "selector": "grid cards location-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "locations.html",
+            "width": 768,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "row",
+                    "selector": "grid cards location-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "locations.html",
+            "width": 1280,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "row",
+                    "selector": "grid cards location-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "locations.html",
+            "width": 1280,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "row",
+                    "selector": "grid cards location-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "locations.html",
+            "width": 1920,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "row",
+                    "selector": "grid cards location-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "locations.html",
+            "width": 1920,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "row",
+                    "selector": "grid cards location-grid",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "pricing.html",
+            "width": 768,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "row",
+                    "selector": "washer-prices premium-washer-prices",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "pricing.html",
+            "width": 768,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "row",
+                    "selector": "washer-prices premium-washer-prices",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "pricing.html",
+            "width": 1280,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "row",
+                    "selector": "washer-prices premium-washer-prices",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "pricing.html",
+            "width": 1280,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "row",
+                    "selector": "washer-prices premium-washer-prices",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "pricing.html",
+            "width": 1920,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "row",
+                    "selector": "washer-prices premium-washer-prices",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "pricing.html",
+            "width": 1920,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "row",
+                    "selector": "washer-prices premium-washer-prices",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "service-details.html",
+            "width": 768,
+            "dir": "ltr",
+            "checks": []
+        },
+        {
+            "file": "service-details.html",
+            "width": 768,
+            "dir": "rtl",
+            "checks": []
+        },
+        {
+            "file": "service-details.html",
+            "width": 1280,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "split split-sixty",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "service-details.html",
+            "width": 1280,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "split split-sixty",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "service-details.html",
+            "width": 1920,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "split split-sixty",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "service-details.html",
+            "width": 1920,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "split split-sixty",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "services.html",
+            "width": 768,
+            "dir": "ltr",
+            "checks": []
+        },
+        {
+            "file": "services.html",
+            "width": 768,
+            "dir": "rtl",
+            "checks": []
+        },
+        {
+            "file": "services.html",
+            "width": 1280,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "inner-hero split",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "service-detail-row",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "service-detail-row reverse",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "service-detail-row",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "split reverse",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "services.html",
+            "width": 1280,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "inner-hero split",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "service-detail-row",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "service-detail-row reverse",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "service-detail-row",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "split reverse",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "services.html",
+            "width": 1920,
+            "dir": "ltr",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "inner-hero split",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "service-detail-row",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "service-detail-row reverse",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "service-detail-row",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "split reverse",
+                    "delta": 0
+                }
+            ]
+        },
+        {
+            "file": "services.html",
+            "width": 1920,
+            "dir": "rtl",
+            "checks": [
+                {
+                    "kind": "split",
+                    "selector": "inner-hero split",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "service-detail-row",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "service-detail-row reverse",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "service-detail-row",
+                    "delta": 0
+                },
+                {
+                    "kind": "split",
+                    "selector": "split reverse",
+                    "delta": 0
+                }
+            ]
+        }
+    ],
+    "failures": []
+}

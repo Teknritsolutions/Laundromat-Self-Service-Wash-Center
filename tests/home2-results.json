@@ -1,0 +1,54 @@
+[
+    {
+        "width": 1440,
+        "theme": "light",
+        "leftMargin": 80,
+        "rightMargin": 80,
+        "careHeights": [
+            370,
+            370,
+            370,
+            370
+        ],
+        "footerDirectionControls": 0
+    },
+    {
+        "width": 1440,
+        "theme": "dark",
+        "leftMargin": 80,
+        "rightMargin": 80,
+        "careHeights": [
+            370,
+            370,
+            370,
+            370
+        ],
+        "footerDirectionControls": 0
+    },
+    {
+        "width": 390,
+        "theme": "light",
+        "leftMargin": 20,
+        "rightMargin": 20,
+        "careHeights": [
+            340,
+            340,
+            340,
+            340
+        ],
+        "footerDirectionControls": 0
+    },
+    {
+        "width": 390,
+        "theme": "dark",
+        "leftMargin": 20,
+        "rightMargin": 20,
+        "careHeights": [
+            340,
+            340,
+            340,
+            340
+        ],
+        "footerDirectionControls": 0
+    }
+]

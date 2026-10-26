@@ -1,0 +1,13 @@
+{
+    "contentImages": 44,
+    "photos": 43,
+    "uniqueHashes": 44,
+    "uniqueSources": 43,
+    "unused": {
+        "style.css": [],
+        "responsive.css": [],
+        "dark-mode.css": [],
+        "rtl.css": [],
+        "utility.css": []
+    }
+}

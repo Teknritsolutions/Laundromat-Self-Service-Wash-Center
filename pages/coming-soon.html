@@ -1,0 +1,224 @@
+﻿<!doctype html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <title>A new wash center is coming | Stillwater Laundry</title>
+        <meta
+            name="description"
+            content="A front-end countdown and notification demonstration for a new Stillwater branch."
+        />
+        <link rel="canonical" href="https://stillwater.example/pages/coming-soon.html" />
+        <meta property="og:title" content="A new wash center is coming | Stillwater Laundry" />
+        <meta
+            property="og:description"
+            content="A front-end countdown and notification demonstration for a new Stillwater branch."
+        />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://stillwater.example/pages/coming-soon.html" />
+        <link rel="icon" type="image/svg+xml" href="../assets/images/brand/favicon.svg" />
+        <script>
+            try {
+                const t = localStorage.getItem("stillwater-theme");
+                document.documentElement.dataset.theme =
+                    t || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+                document.documentElement.dir = localStorage.getItem("stillwater-dir") || "ltr";
+            } catch (e) {}
+        </script>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="stylesheet" href="../assets/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="../assets/css/style.css" />
+        <link rel="stylesheet" href="../assets/css/responsive.css" />
+        <link rel="stylesheet" href="../assets/css/dark-mode.css" />
+        <link rel="stylesheet" href="../assets/css/rtl.css" />
+        <link rel="stylesheet" href="../assets/css/utility.css" />
+    </head>
+    <body class="page-coming-soon standalone-page">
+        <a class="skip-link" href="#main">Skip to content</a>
+        <div class="utility-top container">
+            <a class="brand" href="index.html" aria-label="Stillwater Laundry home">
+                <img
+                    class="logo-dark"
+                    src="../assets/images/brand/logo-dark.svg"
+                    alt="Stillwater Laundry and Wash Center"
+                    width="280"
+                    height="66"
+                    decoding="async"
+                />
+                <img
+                    class="logo-light"
+                    src="../assets/images/brand/logo-light.svg"
+                    alt="Stillwater Laundry and Wash Center"
+                    width="280"
+                    height="66"
+                    decoding="async"
+                />
+            </a>
+            <div class="utility-controls">
+                <button class="icon-button theme-toggle" aria-label="Switch color theme">
+                    <svg
+                        class="icon theme-sun"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="1.5"
+                        aria-hidden="true"
+                    >
+                        <circle cx="12" cy="12" r="4" />
+                        <path
+                            d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"
+                        /></svg
+                    ><svg
+                        class="icon theme-moon"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="1.5"
+                        aria-hidden="true"
+                    >
+                        <path d="M20 15.5A8 8 0 0 1 8.5 4 8.5 8.5 0 1 0 20 15.5Z" />
+                    </svg>
+                </button>
+                <button
+                    class="icon-button direction-toggle"
+                    data-rtl
+                    aria-label="Switch to right-to-left layout"
+                >
+                    <svg
+                        class="icon"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="1.5"
+                        aria-hidden="true"
+                    >
+                        <path d="M4 7h16m-4-4 4 4-4 4M20 17H4m4-4-4 4 4 4" />
+                    </svg>
+                    <span class="direction-label">RTL</span>
+                </button>
+            </div>
+        </div>
+        <main id="main">
+            <!-- ========================= Coming soon ========================= -->
+            <section class="section standalone-section" aria-label="Coming soon">
+                <div class="container">
+                    <div class="standalone-grid">
+                        <div class="standalone-copy">
+                            <span class="eyebrow">COMING SOON</span>
+                            <h1>
+                                A fresh start.
+                                <br />
+                                Coming to your neighborhood.
+                            </h1>
+                            <p>
+                                Weâ€™re putting the finishing touches on a new Stillwater wash
+                                center. More room to wash. A little more time for you.
+                            </p>
+                            <div
+                                class="countdown"
+                                data-countdown="2027-06-01T10:00:00-04:00"
+                                aria-label="Time until demo opening"
+                            ></div>
+                            <form
+                                data-demo-form
+                                data-success="Demo signup validated. Connect an email platform to collect notifications."
+                            >
+                                <label for="notify-email">Be first to hear about opening day</label>
+                                <div class="launch-input">
+                                    <input
+                                        id="notify-email"
+                                        type="email"
+                                        name="email"
+                                        required
+                                        class="form-control"
+                                        placeholder="Your email address"
+                                        autocomplete="email"
+                                    />
+                                    <button class="btn btn-primary">Notify me</button>
+                                </div>
+                                <p class="form-status" role="status"></p>
+                            </form>
+                            <p class="small-note">
+                                Illustrative opening: June 1, 2027. Notification signup is a demo.
+                            </p>
+                        </div>
+                        <div class="launch-picture">
+                            <img
+                                src="../assets/images/utility/fresh-routine-ahead.webp"
+                                alt="A family folding fresh laundry together"
+                                width="1400"
+                                height="2100"
+                                fetchpriority="high"
+                                decoding="async"
+                            />
+                            <div class="launch-feature">
+                                <span class="eyebrow">LAUNDRY, THOUGHTFULLY DONE</span>
+                                <h2>
+                                    Your next wash.
+                                    <br />
+                                    A simpler routine.
+                                </h2>
+                                <p>
+                                    Spacious machines, clear prices and carefully folded laundry.
+                                    The little things that make a fresh week easier.
+                                </p>
+                                <div class="launch-features">
+                                    <span>
+                                        <svg
+                                            class="icon"
+                                            viewBox="0 0 32 32"
+                                            fill="none"
+                                            stroke="currentColor"
+                                            stroke-width="1.6"
+                                            aria-hidden="true"
+                                        >
+                                            <rect x="5" y="3" width="22" height="26" rx="4" />
+                                            <path d="M5 10h22M9 7h3m9 0h2" />
+                                            <circle cx="16" cy="19" r="6" />
+                                            <path d="M10 19q3-3 6 0t6 0" />
+                                        </svg>
+                                        Self-service
+                                    </span>
+                                    <span>
+                                        <svg
+                                            class="icon"
+                                            viewBox="0 0 32 32"
+                                            fill="none"
+                                            stroke="currentColor"
+                                            stroke-width="1.6"
+                                            aria-hidden="true"
+                                        >
+                                            <path d="m7 16 6 6L26 8" />
+                                        </svg>
+                                        Clear prices
+                                    </span>
+                                    <span>
+                                        <svg
+                                            class="icon"
+                                            viewBox="0 0 32 32"
+                                            fill="none"
+                                            stroke="currentColor"
+                                            stroke-width="1.6"
+                                            aria-hidden="true"
+                                        >
+                                            <circle cx="16" cy="16" r="12" />
+                                            <path d="M16 8v9l6 3" />
+                                        </svg>
+                                        Open daily
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <script src="../assets/js/bootstrap.bundle.min.js" defer></script>
+        <script src="../assets/js/main.js" defer></script>
+    </body>
+</html>
