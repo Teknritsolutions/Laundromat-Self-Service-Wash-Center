@@ -8,7 +8,7 @@ Open pages/index.html, or run npm install, npm run dev and visit http://127.0.0.
 
 ## Deployment
 
-Publish the repository root directory. Its index.html automatically opens Home Page 1 at pages/index.html. For GitHub Pages, select the main branch and / (root) in Settings > Pages.
+Publish the repository root directory. Its index.html renders Home Page 1 directly, without a redirect or a continue page. For GitHub Pages, select the main branch and / (root) in Settings > Pages.
 
 ## Pages
 
